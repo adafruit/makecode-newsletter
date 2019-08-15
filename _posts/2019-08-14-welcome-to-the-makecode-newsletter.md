@@ -5,6 +5,8 @@ date: 2019-08-14 07:00:00 -0800
 categories: weekly
 ---
 
+[![MakeCode](../assets/08142019/hero.png)](https://www.makecode.com)
+
 ## The MakeCode Newsletter
 A newsletter devoted to Microsoft MakeCode. News, information, happenings, etc. Content for the MakeCode newsletter. Emailed out each month. Sign up [here](https://www.adafruitdaily.com/).
 
@@ -28,6 +30,12 @@ Students new to coding can start with colored blocks that they can drag and drop
 [![JavaScript Editor](../assets/08142019/81419jsed.jpg)](https://www.microsoft.com/en-us/makecode/about)
 
 When they are ready, students can move into a full-featured JavaScript editor with code snippets, tooltips, and error detection to help them.
+
+## MakeCode Arcade
+
+[![MakeCode Arcade](../assets/08142019/arcade.png)](https://arcade.makecode.com/)
+
+Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create retro arcade games for the web and for microcontrollers. In this guide, you will learn how to assemble your own Arcade hardware from different parts. MakeCode Arcade is open source, and on [GitHub](https://github.com/microsoft/pxt-arcade).
 
 ## Gathering stories
 While the newsletter has a MakeCode focus, we should also highlight stories from the broader ecosystem.
