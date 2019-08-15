@@ -21,7 +21,7 @@ update title
 
 [title](url) from [name](url)
 
-##New Extensions!
+## New Extensions!
 
 Here's this week's new MakeCode extensions:
 
