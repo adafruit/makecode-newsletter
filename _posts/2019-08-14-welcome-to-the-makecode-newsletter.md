@@ -5,6 +5,9 @@ date: 2019-08-14 07:00:00 -0800
 categories: weekly
 ---
 
+## The MakeCode Newsletter
+A newsletter devoted to Microsoft MakeCode. News, information, happenings, etc. Content for the MakeCode newsletter. Emailed out each month. Sign up [here](https://www.adafruitdaily.com/).
+
 ## What is Microsoft MakeCode?
 Microsoft MakeCode is a free, open source platform for creating engaging computer science learning experiences that support a progression path into real-world programming.
 
@@ -25,3 +28,20 @@ Students new to coding can start with colored blocks that they can drag and drop
 [![JavaScript Editor](../assets/08142019/81419jsed.jpg)](https://www.microsoft.com/en-us/makecode/about)
 
 When they are ready, students can move into a full-featured JavaScript editor with code snippets, tooltips, and error detection to help them.
+
+## Gathering stories
+While the newsletter has a MakeCode focus, we should also highlight stories from the broader ecosystem.
+
+Check these places for inspiration:
+
+* [MakeCode](https://www.microsoft.com/en-us/makecode/)
+* [MakeCode forums](https://forum.makecode.com/)
+* [MakeCode Blog](https://makecode.com/blog)
+* [Awesome MakeCode on GitHub](https://github.com/adafruit/awesome-makecode/blob/master/README.md)
+* [r/MakeCode - Reddit](https://www.reddit.com/r/MakeCode/)
+* [@MSMakeCode on Twitter](https://twitter.com/MSMakeCode)
+* [MakeCode on Instagram](https://www.instagram.com/makecode/)
+* [MakeCode on YouTube](https://www.youtube.com/channel/UCye7YlvFUUQ1dSy0WZZ1T_Q)
+
+## Contribute!
+Contributions are welcome! Please make pull request to modify the latest draft from inside the `_drafts` directory. 
