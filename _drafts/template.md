@@ -58,6 +58,8 @@ And check out all [MakeCode guides on learn.adafruit.com](https://learn.adafruit
 
 placeholder text.
 
+## New Hardware!
+
 ## Upcoming events!
 
 placeholder text.
