@@ -48,8 +48,15 @@ Check these places for inspiration:
 * [Awesome MakeCode on GitHub](https://github.com/adafruit/awesome-makecode/blob/master/README.md)
 * [r/MakeCode - Reddit](https://www.reddit.com/r/MakeCode/)
 * [@MSMakeCode on Twitter](https://twitter.com/MSMakeCode)
+* [Latest #MakeCode tagged Tweets](https://twitter.com/search?q=%23makecode&src=typed_query&f=live)
 * [MakeCode on Instagram](https://www.instagram.com/makecode/)
+* [#MakeCode tagged photos on Instagram](https://www.instagram.com/explore/tags/makecode/)
 * [MakeCode on YouTube](https://www.youtube.com/channel/UCye7YlvFUUQ1dSy0WZZ1T_Q)
+* [MakeCode minute on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOU5gFO10qxLlbtN0YzZTyvk)
+* [MakeCode Arcade Game of the Week on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUpC_QY_Y5CmPKm-a5Cg4Qo)
+* [MakeCode posts on Adafruit](https://blog.adafruit.com/category/makecode/)
+* [MakeCode guides on learn.adafruit.com](https://learn.adafruit.com/search?q=makecode)
 
 ## Contribute!
-Contributions are welcome! Please make pull request to modify the latest draft from inside the `_drafts` directory. 
+
+The MakeCode Newsletter is a community-run newsletter with support from Microsoft. The complete [archives are here](https://www.adafruitdaily.com/category/makecode/). Contributions are welcome! Please make pull request to modify the latest draft from inside the `_drafts` directory on [GitHub](https://github.com/adafruit/makecode-newsletter/tree/master/_drafts).
