@@ -34,6 +34,8 @@ Check out all the MakeCode minute [videos on YouTube](https://www.youtube.com/pl
 
 placeholder text.
 
+Check out all the MakeCode Arcade game of the week [videos on YouTube](TBD-JP).
+
 ## News from around the web!
 
 [![](../assets/DATE-GOES-HERE-2019/)]()
