@@ -118,5 +118,5 @@ Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create
 
 ## Contribute!
 
-The MakeCode Newsletter is a community-run newsletter with support from Microsoft. The complete [archives are here](https://www.adafruitdaily.com/category/makecode/).
+The MakeCode Newsletter is a community-run newsletter with support from Microsoft. The complete [archives are here](https://www.adafruitdaily.com/category/makecode/). Contributions are welcome! Please make pull request to modify the latest draft from inside the `_drafts` directory on [GitHub](https://github.com/adafruit/makecode-newsletter/tree/master/_drafts).
 
