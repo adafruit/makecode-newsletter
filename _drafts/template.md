@@ -34,7 +34,7 @@ Check out all the MakeCode minute [videos on YouTube](https://www.youtube.com/pl
 
 placeholder text.
 
-Check out all the MakeCode Arcade game of the week [videos on YouTube](TBD-JP).
+Check out all the MakeCode Arcade game of the week [videos on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUpC_QY_Y5CmPKm-a5Cg4Qo).
 
 ## News from around the web!
 
@@ -80,6 +80,8 @@ placeholder text.
 * [@MSMakeCode on Twitter](https://twitter.com/MSMakeCode)
 * [MakeCode on Instagram](https://www.instagram.com/makecode/)
 * [MakeCode on YouTube](https://www.youtube.com/channel/UCye7YlvFUUQ1dSy0WZZ1T_Q)
+* [MakeCode minute on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOU5gFO10qxLlbtN0YzZTyvk)
+* [MakeCode Arcade Game of the Week on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUpC_QY_Y5CmPKm-a5Cg4Qo)
 
 ## What is Microsoft MakeCode?
 Microsoft MakeCode is a free, open source platform for creating engaging computer science learning experiences that support a progression path into real-world programming.
