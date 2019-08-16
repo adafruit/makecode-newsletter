@@ -28,6 +28,8 @@ placeholder text.
 
 placeholder text.
 
+Check out all the MakeCode minute [videos on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOU5gFO10qxLlbtN0YzZTyvk).
+
 ## MakeCode Arcade Game of the week!
 
 placeholder text.
