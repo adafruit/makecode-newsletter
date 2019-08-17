@@ -38,6 +38,30 @@ placeholder text.
 * Jacqueline - [Twitter](https://twitter.com/jaqster).
 * Microsoft MakeCode - [Microsoft Research](https://www.microsoft.com/en-us/research/project/microsoft-makecode/).
 
+## MakeCode Playlist! Circuit Playground Express
+
+[![Light Sensor on the Circuit Playground Express](http://img.youtube.com/vi/9LrWQ68lO20/0.jpg)](http://www.youtube.com/watch?v=9LrWQ68lO20 "Light Sensor on the Circuit Playground Express")
+
+Behind the MakeCode Hardware - [Light Sensor on the Circuit Playground Express](https://youtu.be/9LrWQ68lO20).
+
+[![Infrared on the Circuit Playground Express](http://img.youtube.com/vi/0EMuaMClfos/0.jpg)](http://www.youtube.com/watch?v=0EMuaMClfos "Infrared on the Circuit Playground Express")
+
+Behind the MakeCode Hardware - [Infrared on the Circuit Playground Express](https://youtu.be/0EMuaMClfos).
+
+[![Microphone on Circuit Playground Express](http://img.youtube.com/vi/g5894PVYOF4/0.jpg)](http://www.youtube.com/watch?v=g5894PVYOF4 "Microphone on Circuit Playground Express")
+
+Behind the MakeCode Hardware - [Microphone on Circuit Playground Express](https://youtu.be/g5894PVYOF4).
+
+[![Speaker on the Circuit Playground Express](http://img.youtube.com/vi/JjJ-KGwKh_4/0.jpg)](http://www.youtube.com/watch?v=JjJ-KGwKh_4 "Speaker on the Circuit Playground Express")
+
+Behind the MakeCode Hardware - [Speaker on the Circuit Playground Express](https://youtu.be/JjJ-KGwKh_4).
+
+[![NeoPixels on Circuit Playground Express](http://img.youtube.com/vi/Bo0cM2qmuAE/0.jpg)](http://www.youtube.com/watch?v=Bo0cM2qmuAE "NeoPixels on Circuit Playground Express")
+
+Behind the MakeCode Hardware - [NeoPixels on Circuit Playground Express](https://youtu.be/Bo0cM2qmuAE).
+
+Check out the full list of Circuit Playground Express videos from [MakeCode on YouTube](https://www.youtube.com/playlist?list=PLMMBk9hE-SereBT085Fbbs3IX84rupXfx).
+
 ## MakeCode minute
 
 placeholder text.
