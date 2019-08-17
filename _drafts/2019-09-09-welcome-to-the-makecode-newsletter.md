@@ -18,9 +18,11 @@ update title
 
 placeholder text.
 
-## Educator spotlight
+## Educator spotlight - Lufkin Independent School District: Project based learning with Microsoft MakeCode
 
-placeholder text.
+[![Lufkin Independent School District](http://img.youtube.com/vi/rcpAA59Pppo/0.jpg)](http://www.youtube.com/watch?v=rcpAA59Pppo "Lufkin Independent School District")
+
+Lufkin Independent School District is using Microsoft MakeCode with Adafruit Circuit Playground Express to challenge students with projects that build creativity, computational thinking, and collaboration skills. Lufkin District video - [YouTube](https://youtu.be/rcpAA59Pppo).
 
 ## Interview: Jacqueline Russell, Principal Program Manager, Microsoft MakeCode
 
