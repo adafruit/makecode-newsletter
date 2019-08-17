@@ -22,6 +22,14 @@ Placeholder text.
 
 Microsoft researchers teamed up with designers at the Brooklyn Public Library’s BKLYN Fashion Academy to enhance the storytelling power of their garments using custom-made plug-and-play microcontroller technology. The collaboration culminated in a fashion show on May 3 at the Brooklyn Public Library’s Central Library in New York City. The tech was the first application of Project Alava, which aims to lower the barriers of entry to programming by creating microcontroller-based systems that are easy to construct, code and debug. Alava leverages the open-source framework powering Microsoft MakeCode and the bus-based communication protocol JACDAC.
 
+[![Fashion forward: Researchers, designers debut new tech on New York City runway](http://img.youtube.com/vi/tOBmwL_-zPQ/0.jpg)](http://www.youtube.com/watch?v=tOBmwL_-zPQ "Fashion forward: Researchers, designers debut new tech on New York City runway")
+
+**Lancaster Computer Science student’s research helps New York fashionistas**
+
+[![Lancaster Computer Science student’s research helps New York fashionistas](../assets/09092019/jacdac.jpg)](https://www.lancaster.ac.uk/news/lancaster-computer-science-students-research-helps-new-york-fashionistas)
+
+>_"James Devine, a student at Lancaster University’s School of Computing and Communications, has developed a new communication technology called JACDAC that helps different tiny embedded computers known as microcontrollers talk to each other more easily. JACDAC can be described as the USB for the wired Internet of Things (IoT) and simplifies the connecting of microcontrollers featuring different sensors and capabilities. JACDAC enables a network of microcontrollers to work together in highly dynamic environments, yet, makes doing so as simple as plugging a pair of headphones into a 3.5mm socket. Mr. Devine developed JACDAC as part of an internship at Microsoft Research in the United States. His software was originally designed to help develop a multiplayer aspect to Microsoft’s MakeCode Arcade – a web-based application that lets people create their own games for handheld gaming devices."_
+
 ## Educator spotlight - Lufkin Independent School District: Project based learning with Microsoft MakeCode
 
 [![Lufkin Independent School District](http://img.youtube.com/vi/rcpAA59Pppo/0.jpg)](http://www.youtube.com/watch?v=rcpAA59Pppo "Lufkin Independent School District")
