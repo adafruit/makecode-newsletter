@@ -20,6 +20,8 @@ Placeholder text.
 
 [BKLYN Fashion Academy Class of 2019 Shines at Runway Show](https://bklyner.com/bklyn-fashion-academy-class-of-2019-shines-at-runway-show/) - wearable technology sponsored by Microsoft’s MakeCode.
 
+Microsoft researchers teamed up with designers at the Brooklyn Public Library’s BKLYN Fashion Academy to enhance the storytelling power of their garments using custom-made plug-and-play microcontroller technology. The collaboration culminated in a fashion show on May 3 at the Brooklyn Public Library’s Central Library in New York City. The tech was the first application of Project Alava, which aims to lower the barriers of entry to programming by creating microcontroller-based systems that are easy to construct, code and debug. Alava leverages the open-source framework powering Microsoft MakeCode and the bus-based communication protocol JACDAC.
+
 ## Educator spotlight - Lufkin Independent School District: Project based learning with Microsoft MakeCode
 
 [![Lufkin Independent School District](http://img.youtube.com/vi/rcpAA59Pppo/0.jpg)](http://www.youtube.com/watch?v=rcpAA59Pppo "Lufkin Independent School District")
