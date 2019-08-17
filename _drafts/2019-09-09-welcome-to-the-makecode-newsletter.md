@@ -33,9 +33,7 @@ placeholder text.
 * Week 4: LEGO MINDSTORMS City
 * Week 5: Cue the Messenger
 * Week 6: Chibitronics birthday card
-
 * Jacqueline - [Twitter](https://twitter.com/jaqster).
-
 * Microsoft MakeCode - [Microsoft Research](https://www.microsoft.com/en-us/research/project/microsoft-makecode/).
 
 ## MakeCode minute
