@@ -178,6 +178,8 @@ Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create
 
 ## MakeCode Compatible Hardware
 
+[![How to Assemble the Chibi Clip](http://img.youtube.com/vi/yaa89aKtxGs/0.jpg)](http://www.youtube.com/watch?v=yaa89aKtxGs "How to Assemble the Chibi Clip")
+
 ### Specific Hardware Platforms
 - [BBC micro:bit](https://makecode.microbit.org/)
 - [Adafruit Circuit Playground Express](https://makecode.adafruit.com/)
