@@ -12,11 +12,13 @@ A newsletter devoted to Microsoft MakeCode. News, information, hardware, happeni
 
 ## Welcome to MakeCode!
 
-Feature story text here
+Placeholder text.
 
-## Feature story!
+## BKLYN Fashion Academy Class of 2019 Shines at Runway Show
 
-placeholder text.
+
+
+[BKLYN Fashion Academy Class of 2019 Shines at Runway Show](https://bklyner.com/bklyn-fashion-academy-class-of-2019-shines-at-runway-show/) - wearable technology sponsored by Microsoft’s MakeCode, May 6, 2019.
 
 ## Educator spotlight - Lufkin Independent School District: Project based learning with Microsoft MakeCode
 
@@ -157,6 +159,41 @@ When they are ready, students can move into a full-featured JavaScript editor wi
 [![MakeCode Arcade](../assets/08142019/arcade.png)](https://arcade.makecode.com/)
 
 Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create retro arcade games for the web and for microcontrollers. In this guide, you will learn how to assemble your own Arcade hardware from different parts. MakeCode Arcade is open source, and on [GitHub](https://github.com/microsoft/pxt-arcade).
+
+## Extending MakeCode
+- [Creating Targets](https://makecode.com/target-creation) - new hardware platforms for MakeCode
+- [Creating Extensions](https://makecode.com/extensions) - an extension is like a plug-in, providing specific functionality for hardware or software.
+- [MakeCode PTX GitHub for Adafruit boards](https://github.com/microsoft/pxt-adafruit) 
+- [MakeCode PTX GitHub for Arcade](https://github.com/microsoft/pxt-arcade)
+
+## MakeCode Compatible Hardware
+
+### Specific Hardware Platforms
+- [BBC micro:bit](https://makecode.microbit.org/)
+- [Adafruit Circuit Playground Express](https://makecode.adafruit.com/)
+- [Microsoft Minecraft](https://minecraft.makecode.com/)
+- [LEGO® MINDSTORMS® Education EV3](https://makecode.mindstorms.com/)
+- [Cue](https://www.makewonder.com/cue_the_cleverbot/explore) by Wonder Workshop.
+- [Chibi Chip](https://makecode.chibitronics.com/) by chibitronics.
+
+### MakeCode Maker
+- [MakeCode Maker](https://maker.makecode.com/) - uses a breadboard approach to connecting components.
+- [Adafruit Compatible Boards](https://maker.makecode.com/boards/adafruit)
+- [SparkFun Compatible Boards](https://maker.makecode.com/boards/sparkfun)
+- [Arduino Compatible Boards](https://maker.makecode.com/boards/arduino)
+- [Beads (Project Brookdale) Compatible Boards](https://maker.makecode.com/boards/beads)
+- [Other Compatible Boards](https://maker.makecode.com/boards/misc)
+- [Adding another board](https://maker.makecode.com/boards/add-a-new-board)
+
+### MakeCode Arcade Compatible Hardware
+- [Adafruit PyGamer](https://www.adafruit.com/product/4242)
+- [Adafruit PyBadge](https://www.adafruit.com/product/4200)
+- [Adafruit PyBadge LC](https://www.adafruit.com/product/3939)
+- [KittenBot Meowbit](https://www.kittenbot.cc/products/meowbit-codable-console-for-microsoft-makecode-arcade) - a codable Console for Microsoft Makecode Arcade.
+- [BrainPad Arcade](https://brainpad.com/arcade/how-it-works)
+- [Adafruit M4 Board and Screen](https://learn.adafruit.com/makecode-arcade-with-samd51-m4)
+- [Raspberry Pi Zero and Adafruit Joy Bonnet](https://learn.adafruit.com/makecode-arcade-with-raspberry-pi-zero)
+- [WiFiBoy OK:D51 Arcade](https://wifiboy.org/) - demonstration video on [YouTube](https://www.youtube.com/watch?v=irrZHRrMRgw)
 
 ## Contribute!
 
