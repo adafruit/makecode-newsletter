@@ -86,7 +86,9 @@ Check out all the MakeCode Arcade game of the week [videos on YouTube](https://w
 
 ## News from around the web!
 
-placeholder text.
+[![BrainPad at the Detroit Maker Faire](http://img.youtube.com/vi/AcvoMmHl1DM/0.jpg)](http://www.youtube.com/watch?v=AcvoMmHl1DM "BrainPad at the Detroit Maker Faire")
+
+[BrainPad](https://www.brainpad.com/) at the Detroit Maker Faire - [YouTube](https://youtu.be/AcvoMmHl1DM).
 
 ## Coming soon
 
