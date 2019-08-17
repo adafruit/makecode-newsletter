@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Featured story title here!"
+title: "Welcome to MakeCode!"
 date: 2019-09-09 07:00:00 -0800
 categories: weekly
 ---
@@ -8,11 +8,11 @@ categories: weekly
 [![MakeCode](../assets/08142019/hero.png)](https://www.makecode.com)
 
 ## The MakeCode Newsletter
-A newsletter devoted to Microsoft MakeCode. News, information, happenings, etc. Content for the MakeCode newsletter. Emailed out each month. Sign up [here](https://www.adafruitdaily.com/).
+A newsletter devoted to Microsoft MakeCode. News, information, hardware, happenings, and more! Emailed out each month. Sign up [here](https://www.adafruitdaily.com/).
+
+## Welcome to MakeCode!
 
 Feature story text here
-
-update title
 
 ## Feature story!
 
@@ -76,11 +76,7 @@ Check out all the MakeCode Arcade game of the week [videos on YouTube](https://w
 
 ## News from around the web!
 
-[![](../assets/DATE-GOES-HERE-2019/)]()
-
-[title](url)
-
-#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)?
+placeholder text.
 
 ## Coming soon
 
