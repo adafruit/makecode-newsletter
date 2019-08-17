@@ -54,13 +54,13 @@ Lufkin Independent School District is using Microsoft MakeCode with Adafruit Cir
 
 placeholder text.
 
-* Summer of MakeCode for kids - [Microsoft Research](https://www.microsoft.com/en-us/research/blog/summer-of-makecode-for-kids/).
 * Week 1: Micro:Pet
 * Week 2: Fortune Teller
 * Week 3: Minecraft Obstacle Course
 * Week 4: LEGO MINDSTORMS City
 * Week 5: Cue the Messenger
 * Week 6: Chibitronics birthday card
+* Summer of MakeCode for kids - [Microsoft Research](https://www.microsoft.com/en-us/research/blog/summer-of-makecode-for-kids/).
 * Jacqueline - [Twitter](https://twitter.com/jaqster).
 * Microsoft MakeCode - [Microsoft Research](https://www.microsoft.com/en-us/research/project/microsoft-makecode/).
 
@@ -114,9 +114,7 @@ Check out all the MakeCode Arcade game of the week [videos on YouTube](https://w
 
 [![BrainPad at the Detroit Maker Faire](http://img.youtube.com/vi/AcvoMmHl1DM/0.jpg)](http://www.youtube.com/watch?v=AcvoMmHl1DM "BrainPad at the Detroit Maker Faire")
 
-[BrainPad](https://www.brainpad.com/) at the Detroit Maker Faire - [YouTube](https://youtu.be/AcvoMmHl1DM).
-
-TK - https://www.youtube.com/channel/UCYvU-GOQCX97aDu3o4bxl_Q/videos
+[BrainPad](https://www.brainpad.com/) at the Detroit Maker Faire - [YouTube](https://youtu.be/AcvoMmHl1DM). Check out all the [BrainPad videos](https://www.youtube.com/channel/UCYvU-GOQCX97aDu3o4bxl_Q/videos).
 
 ## Coming soon
 
@@ -124,7 +122,14 @@ placeholder text.
 
 ## New guides using MakeCode!
 
-[title](url) from [name](url).
+[![2D Sidescrolling Platformer](../assets/09092019/9919complete-2d-platformer-makecode-arcade.gif)](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade)
+
+[2D Sidescrolling Platformer](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade) with MakeCode Arcade.
+
+* [Go Fishing with Rotary Encoders](https://learn.adafruit.com/gone-fishing-game).
+* [Plantagotchi: PyBadge Plant Monitor](https://learn.adafruit.com/plantagotchi-pybadge-plant-monitor).
+* [Making a Name Tag in MakeCode Arcade](https://learn.adafruit.com/making-a-name-tag-in-makecode-arcade).
+* [PyGamer NeoPixel Controller](https://learn.adafruit.com/pygamer-neopixel-controller).
 
 And check out all [MakeCode guides on learn.adafruit.com](https://learn.adafruit.com/search?q=makecode).
 
@@ -133,6 +138,8 @@ And check out all [MakeCode guides on learn.adafruit.com](https://learn.adafruit
 placeholder text.
 
 ## New Hardware!
+
+placeholder text.
 
 ## Upcoming events!
 
