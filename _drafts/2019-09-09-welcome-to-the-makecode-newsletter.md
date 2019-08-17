@@ -30,7 +30,7 @@ Lufkin Independent School District is using Microsoft MakeCode with Adafruit Cir
 
 ## Bots! Robotics Engineering with Hands-On Makerspace Activities
 
-[![Bots! Robotics Engineering with Hands-On Makerspace Activities(../assets/09092019/9919botsbook.jpg)](https://nomadpress.net/nomadpress-books/bots-robotics-engineering/)
+[![Bots Robotics Engineering with Hands-On Makerspace Activities](../assets/09092019/9919botsbook.jpg)](https://nomadpress.net/nomadpress-books/bots-robotics-engineering/)
 
 **Build and Program a Recycled Robot with MakeCode!** by [Kathy Ceceri](https://twitter.com/KathyCeceri)!
 
