@@ -96,6 +96,8 @@ Check out all the MakeCode Arcade game of the week [videos on YouTube](https://w
 
 [BrainPad](https://www.brainpad.com/) at the Detroit Maker Faire - [YouTube](https://youtu.be/AcvoMmHl1DM).
 
+TK - https://www.youtube.com/channel/UCYvU-GOQCX97aDu3o4bxl_Q/videos
+
 ## Coming soon
 
 placeholder text.
