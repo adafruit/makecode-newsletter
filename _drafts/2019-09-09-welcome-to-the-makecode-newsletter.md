@@ -26,6 +26,8 @@ Lufkin Independent School District is using Microsoft MakeCode with Adafruit Cir
 
 ## Interview: Jacqueline Russell, Principal Program Manager, Microsoft MakeCode
 
+[![Jacqueline Russell, Principal Program Manager, Microsoft MakeCode](http://img.youtube.com/vi/LBNNAfj-GGc/0.jpg)](http://www.youtube.com/watch?v=LBNNAfj-GGc "Jacqueline Russell, Principal Program Manager, Microsoft MakeCode")
+
 placeholder text.
 
 * Summer of MakeCode for kids - [Microsoft Research](https://www.microsoft.com/en-us/research/blog/summer-of-makecode-for-kids/).
