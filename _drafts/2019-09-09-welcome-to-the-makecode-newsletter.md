@@ -22,6 +22,19 @@ placeholder text.
 
 placeholder text.
 
+## Interview: Jacqueline Russell, Principal Program Manager, Microsoft MakeCode
+
+placeholder text.
+
+* Summer of MakeCode for kids - [Microsoft Research](https://www.microsoft.com/en-us/research/blog/summer-of-makecode-for-kids/).
+* Week 1: Micro:Pet
+* Week 2: Fortune Teller
+* Week 3: Minecraft Obstacle Course
+* Week 4: LEGO MINDSTORMS City
+* Week 5: Cue the Messenger
+* Week 6: Chibitronics birthday card
+* Jacqueline - [Twitter](https://twitter.com/jaqster).
+
 ## MakeCode minute
 
 placeholder text.
