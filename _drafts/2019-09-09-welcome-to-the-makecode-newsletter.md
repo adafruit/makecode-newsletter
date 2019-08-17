@@ -187,8 +187,9 @@ Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create
 ## Extending MakeCode
 - [Creating Targets](https://makecode.com/target-creation) - new hardware platforms for MakeCode
 - [Creating Extensions](https://makecode.com/extensions) - an extension is like a plug-in, providing specific functionality for hardware or software.
-- [MakeCode PTX GitHub for Adafruit boards](https://github.com/microsoft/pxt-adafruit) 
-- [MakeCode PTX GitHub for Arcade](https://github.com/microsoft/pxt-arcade)
+- [MakeCode for Adafruit boards on GitHub](https://github.com/microsoft/pxt-adafruit) 
+- [MakeCode Arcade on GitHub](https://github.com/microsoft/pxt-arcade)
+- [Developer tips and tricks for MakeCode Arcade](https://arcade.makecode.com/developer/)
 
 ## MakeCode Compatible Hardware
 
@@ -215,9 +216,9 @@ Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create
 - [Adafruit PyGamer](https://www.adafruit.com/product/4242)
 - [Adafruit PyBadge](https://www.adafruit.com/product/4200)
 - [Adafruit PyBadge LC](https://www.adafruit.com/product/3939)
-- [KittenBot Meowbit](https://www.kittenbot.cc/products/meowbit-codable-console-for-microsoft-makecode-arcade) - a codable Console for Microsoft Makecode Arcade.
-- [BrainPad Arcade](https://brainpad.com/arcade/how-it-works)
 - [Adafruit M4 Board and Screen](https://learn.adafruit.com/makecode-arcade-with-samd51-m4)
+- [BrainPad Arcade](https://brainpad.com/arcade/how-it-works)
+- [KittenBot Meowbit](https://www.kittenbot.cc/products/meowbit-codable-console-for-microsoft-makecode-arcade) - a codable Console for Microsoft Makecode Arcade.
 - [Raspberry Pi Zero and Adafruit Joy Bonnet](https://learn.adafruit.com/makecode-arcade-with-raspberry-pi-zero)
 - [WiFiBoy OK:D51 Arcade](https://wifiboy.org/) - demonstration video on [YouTube](https://www.youtube.com/watch?v=irrZHRrMRgw)
 
