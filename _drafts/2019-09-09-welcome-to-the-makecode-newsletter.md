@@ -5,6 +5,12 @@ date: 2019-09-09 07:00:00 -0800
 categories: weekly
 ---
 
+- [x] change date
+- [x] update title
+- [ ] Feature story
+- [ ] Update [![](../assets/DIR-LOCATION/)]() for images
+- [ ] All images 550w max only
+
 [![MakeCode](../assets/08142019/hero.png)](https://www.makecode.com)
 
 ## The MakeCode Newsletter
