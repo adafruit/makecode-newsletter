@@ -16,9 +16,9 @@ Placeholder text.
 
 ## BKLYN Fashion Academy Class of 2019 Shines at Runway Show
 
+[![Fashion forward: Researchers, designers debut new tech on New York City runway](http://img.youtube.com/vi/TvSmYga2Pic/0.jpg)](http://www.youtube.com/watch?v=TvSmYga2Pic "Fashion forward: Researchers, designers debut new tech on New York City runway")
 
-
-[BKLYN Fashion Academy Class of 2019 Shines at Runway Show](https://bklyner.com/bklyn-fashion-academy-class-of-2019-shines-at-runway-show/) - wearable technology sponsored by Microsoft’s MakeCode, May 6, 2019.
+[BKLYN Fashion Academy Class of 2019 Shines at Runway Show](https://bklyner.com/bklyn-fashion-academy-class-of-2019-shines-at-runway-show/) - wearable technology sponsored by Microsoft’s MakeCode.
 
 ## Educator spotlight - Lufkin Independent School District: Project based learning with Microsoft MakeCode
 
