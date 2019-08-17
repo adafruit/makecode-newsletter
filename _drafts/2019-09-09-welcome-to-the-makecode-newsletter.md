@@ -46,8 +46,6 @@ Lufkin Independent School District is using Microsoft MakeCode with Adafruit Cir
 
 [Nomad Press](https://nomadpress.net/nomadpress-books/bots-robotics-engineering/), and [Amazon](https://www.amazon.com/Bots-Robotics-Engineering-Hands-Makerspace/dp/1619308304/).
 
-
-
 ## Interview: Jacqueline Russell, Principal Program Manager, Microsoft MakeCode
 
 [![Jacqueline Russell, Principal Program Manager, Microsoft MakeCode](http://img.youtube.com/vi/LBNNAfj-GGc/0.jpg)](http://www.youtube.com/watch?v=LBNNAfj-GGc "Jacqueline Russell, Principal Program Manager, Microsoft MakeCode")
@@ -92,7 +90,7 @@ Behind the MakeCode Hardware - [Speaker on the Circuit Playground Express](https
 
 Behind the MakeCode Hardware - [NeoPixels on Circuit Playground Express](https://youtu.be/Bo0cM2qmuAE).
 
-Check out the full list of Circuit Playground Express videos from [MakeCode on YouTube](https://www.youtube.com/playlist?list=PLMMBk9hE-SereBT085Fbbs3IX84rupXfx).
+Check out the full list of Circuit Playground Express videos from [MakeCode on YouTube](https://www.youtube.com/playlist?list=PLMMBk9hE-SereBT085Fbbs3IX84rupXfx) and the entire [Behind the MakeCode Hardware series](https://www.youtube.com/playlist?list=PLMMBk9hE-SeqDYtw9pGNPsQ10V_EGMyGe).
 
 ## MakeCode minute
 
