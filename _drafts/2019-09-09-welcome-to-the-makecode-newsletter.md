@@ -64,13 +64,17 @@ Check out the full list of Circuit Playground Express videos from [MakeCode on Y
 
 ## MakeCode minute
 
-placeholder text.
+[![MakeCode Minute: NeoPixel Strips](http://img.youtube.com/vi/OGKvAqpfhr0/0.jpg)](http://www.youtube.com/watch?v=OGKvAqpfhr0 "MakeCode Minute: NeoPixel Strips")
+
+MakeCode Minute: External NeoPixel Strips with MakeCode and Crickit! - [YouTube](https://youtu.be/OGKvAqpfhr0?list=PLjF7R1fz_OOU5gFO10qxLlbtN0YzZTyvk).
 
 Check out all the MakeCode minute [videos on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOU5gFO10qxLlbtN0YzZTyvk).
 
 ## MakeCode Arcade Game of the week!
 
-placeholder text.
+[![akeCode Arcade Game of the Week: Dance Party](http://img.youtube.com/vi/LRXn45u-9Po/0.jpg)](http://www.youtube.com/watch?v=LRXn45u-9Po "akeCode Arcade Game of the Week: Dance Party")
+
+MakeCode Arcade Game of the Week: Dance Party Remastered by shaqattack8 - [MakeCode Forums](https://forum.makecode.com/t/dance-party-remastered-microsoft-makecode/385).
 
 Check out all the MakeCode Arcade game of the week [videos on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUpC_QY_Y5CmPKm-a5Cg4Qo).
 
