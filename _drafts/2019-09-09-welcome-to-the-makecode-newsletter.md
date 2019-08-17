@@ -44,6 +44,12 @@ placeholder text.
 * Jacqueline - [Twitter](https://twitter.com/jaqster).
 * Microsoft MakeCode - [Microsoft Research](https://www.microsoft.com/en-us/research/project/microsoft-makecode/).
 
+## Meet Meowbit: Programmable Retro Game Computer
+
+[![Meet Meowbit: Programmable Retro Game Computer](http://img.youtube.com/vi/qvIrioiKMw4/0.jpg)](http://www.youtube.com/watch?v=qvIrioiKMw4 "Meet Meowbit: Programmable Retro Game Computer")
+
+[Meowbit](https://www.kittenbot.cc/products/meowbit-codable-console-for-microsoft-makecode-arcade) is a card-sized graphical retro game computer with allows you coding with Makecode arcade and Python.  It contains 1.8' full-color screen, 6 x programmable buttons ,1 x buzzer, built-in light sensor , temperatur sensor, SD card slot ,multyplayer connector and edge connector. Espcially the edge connector could access most micro:bit expension boards. We recommend to use Robot:bit for Mewobit, it can help you create a robot quickly - [YouTube](http://www.youtube.com/watch?v=qvIrioiKMw4).
+
 ## MakeCode Playlist! Circuit Playground Express
 
 [![Light Sensor on the Circuit Playground Express](http://img.youtube.com/vi/9LrWQ68lO20/0.jpg)](http://www.youtube.com/watch?v=9LrWQ68lO20 "Light Sensor on the Circuit Playground Express")
