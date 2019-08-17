@@ -28,6 +28,18 @@ Microsoft researchers teamed up with designers at the Brooklyn Public Library’
 
 Lufkin Independent School District is using Microsoft MakeCode with Adafruit Circuit Playground Express to challenge students with projects that build creativity, computational thinking, and collaboration skills. Lufkin District video - [YouTube](https://youtu.be/rcpAA59Pppo).
 
+## Bots! Robotics Engineering with Hands-On Makerspace Activities
+
+[![Bots! Robotics Engineering with Hands-On Makerspace Activities(../assets/09092019/9919botsbook.jpg)](https://nomadpress.net/nomadpress-books/bots-robotics-engineering/)
+
+**Build and Program a Recycled Robot with MakeCode!** by [Kathy Ceceri](https://twitter.com/KathyCeceri)!
+
+>_"Robots are everywhere! They vacuum our houses, work in our factories, help us learn at school, and play with us at home. They sample rocks from other planets, survey disaster zones from the air, and bring back images from the bottom of the ocean. In Bots! Robotics Engineering with Hands-On Makerspace Activities, kids ages 9 to 12 learn about the systems that help robots operate—the bodies that determine how they move, sensors that tell them what's going on around them, artificial intelligence that lets them figure out what to do next, and more! Explore the history of robots with fascinating facts and profiles of people working in this exciting STEM field. Bots! explores how art, psychology, and biology make robots easier to talk to and let them do things people can’t, such as slither or fly. And you'll get a peek at research that may someday bring us the robots of tomorrow."_ 
+
+[Nomad Press](https://nomadpress.net/nomadpress-books/bots-robotics-engineering/), and [Amazon](https://www.amazon.com/Bots-Robotics-Engineering-Hands-Makerspace/dp/1619308304/).
+
+
+
 ## Interview: Jacqueline Russell, Principal Program Manager, Microsoft MakeCode
 
 [![Jacqueline Russell, Principal Program Manager, Microsoft MakeCode](http://img.youtube.com/vi/LBNNAfj-GGc/0.jpg)](http://www.youtube.com/watch?v=LBNNAfj-GGc "Jacqueline Russell, Principal Program Manager, Microsoft MakeCode")
