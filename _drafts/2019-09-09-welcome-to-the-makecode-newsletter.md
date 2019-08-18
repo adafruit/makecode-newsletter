@@ -96,7 +96,7 @@ Behind the MakeCode Hardware - [Speaker on the Circuit Playground Express](https
 
 Behind the MakeCode Hardware - [NeoPixels on Circuit Playground Express](https://youtu.be/Bo0cM2qmuAE).
 
-Check out the full list of Circuit Playground Express videos from [MakeCode on YouTube](https://www.youtube.com/playlist?list=PLMMBk9hE-SereBT085Fbbs3IX84rupXfx) and the entire [Behind the MakeCode Hardware series](https://www.youtube.com/playlist?list=PLMMBk9hE-SeqDYtw9pGNPsQ10V_EGMyGe).
+Check out the full list of Circuit Playground Express videos from [MakeCode on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXQQUE8bUh49XZklweVZVxT) and the entire [Behind the MakeCode Hardware series](https://www.youtube.com/playlist?list=PLMMBk9hE-SeqDYtw9pGNPsQ10V_EGMyGe).
 
 ## MakeCode minute
 
