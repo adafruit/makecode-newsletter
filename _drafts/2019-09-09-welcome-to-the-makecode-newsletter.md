@@ -125,6 +125,10 @@ Check out all the MakeCode Arcade game of the week [videos on YouTube](https://w
 Make Stencils using MakeCode Arcade! Via a [Twitter post](https://twitter.com/pelikhan/status/1157366681594822656) by Peli de Halleux, 
 you can use the [MakeCode Arcade Stencilr](https://arcade-stencils.glitch.me/) to turn sprites into painting stencils!
 
+[![ToddleBot](http://img.youtube.com/vi/L3orydBk7Ew/0.jpg)](https://www.youtube.com/watch?v=L3orydBk7Ew&feature=youtu.be)
+
+See students build the ToddleBot with EV3 LEGO, programmed with MakeCode. [YouTube](https://www.youtube.com/watch?v=L3orydBk7Ew&feature=youtu.be)
+
 ## Coming soon
 
 placeholder text.
