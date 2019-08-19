@@ -1,0 +1,40 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>MakeCode « Adafruit Daily</title>
+		<link rel="alternate" type="application/rss+xml" title="MakeCode Feed" href="/feed.xml">
+		<link rel="stylesheet" id="af-core-css" href="https://www.adafruitdaily.com/app/themes/adafruit2013/style.css?ver=1502388216" type="text/css" media="all">
+</head>
+<body class="archive category">
+  <div id="outer-wrapper">
+    <div id="inner-wrapper">
+      <div id="content">
+        <img alt="Adafruit Daily" src="https://www.adafruitdaily.com/app/themes/adafruit2013/images/email-header.png" style="width: 100%">
+        <h1 class="archive-title">MakeCode</h1>
+        {% assign year = "" %}{% assign month = "" %}
+        {% for post in site.posts %}
+          {% assign newYear = post.date | date: "%Y" %}
+          {% if newYear != year %}
+            {% assign year = newYear %}
+            <h2>{{ year }}</h2>
+          {% endif %} 
+          {% assign newMonth = post.date | date: "%B" %}
+          {% if newMonth != month %}
+            {% assign month = newMonth %}
+            <h3>{{ month }}</h3>
+          {% endif %} 
+          <div class="archive-entry">
+            <h4 class="entry-date">{{ post.date | date: "%d" }}</h4>
+            <h4 class="entry-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</body>
+</html>
