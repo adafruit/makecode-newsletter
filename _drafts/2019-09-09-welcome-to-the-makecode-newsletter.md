@@ -129,6 +129,10 @@ you can use the [MakeCode Arcade Stencilr](https://arcade-stencils.glitch.me/) t
 
 See students build the ToddleBot with EV3 LEGO, programmed with MakeCode. [YouTube](https://www.youtube.com/watch?v=L3orydBk7Ew&feature=youtu.be)
 
+[![Yahboom Arm:bit with Micro:bit](http://img.youtube.com/vi/yhYMkQhljYs/0.jpg)](https://www.youtube.com/watch?v=yhYMkQhljYs&feature=youtu.be)
+
+MakeCode on a micro:bit controls a Lego robotic arm in this coffee shop build. [YouTube](https://www.youtube.com/watch?v=yhYMkQhljYs&feature=youtu.be)
+
 ## Coming soon
 
 placeholder text.
