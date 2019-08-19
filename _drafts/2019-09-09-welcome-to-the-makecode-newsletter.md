@@ -123,7 +123,7 @@ Check out all the MakeCode Arcade game of the week [videos on YouTube](https://w
 [![MakeCode Stencils](../assets/09092019/makecode-stencil.png)](https://blog.adafruit.com/2019/08/08/makecode-arcade-stencilr-turn-arcade-images-into-large-stencils-makecode-msmakecode-pelikhan/)
 
 Make Stencils using MakeCode Arcade! Via a [Twitter post](https://twitter.com/pelikhan/status/1157366681594822656) by Peli de Halleux, 
-you can use the MakeCode Arcade Stencilr(https://arcade-stencils.glitch.me/) to turn sprites into painting stencils!
+you can use the [MakeCode Arcade Stencilr](https://arcade-stencils.glitch.me/) to turn sprites into painting stencils!
 
 ## Coming soon
 
