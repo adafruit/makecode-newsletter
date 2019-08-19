@@ -8,10 +8,10 @@ categories: weekly
 - [x] change date
 - [x] update title
 - [ ] Feature story
-- [ ] Update [![](../assets/DIR-LOCATION/)]() for images
+- [ ] Update [![](/assets/DIR-LOCATION/)]() for images
 - [ ] All images 550w max only
 
-[![MakeCode](../assets/08142019/hero.png)](https://www.makecode.com)
+[![MakeCode](/assets/08142019/hero.png)](https://www.makecode.com)
 
 ## The MakeCode Newsletter
 A newsletter devoted to Microsoft MakeCode. News, information, hardware, happenings, and more! Emailed out each month. Sign up [here](https://www.adafruitdaily.com/).
@@ -32,7 +32,7 @@ Microsoft researchers teamed up with designers at the Brooklyn Public Library’
 
 **Lancaster Computer Science student’s research helps New York fashionistas**
 
-[![Lancaster Computer Science student’s research helps New York fashionistas](../assets/09092019/jacdac.jpg)](https://www.lancaster.ac.uk/news/lancaster-computer-science-students-research-helps-new-york-fashionistas)
+[![Lancaster Computer Science student’s research helps New York fashionistas](/assets/09092019/jacdac.jpg)](https://www.lancaster.ac.uk/news/lancaster-computer-science-students-research-helps-new-york-fashionistas)
 
 >_"James Devine, a student at Lancaster University’s School of Computing and Communications, has developed a new communication technology called JACDAC that helps different tiny embedded computers known as microcontrollers talk to each other more easily. JACDAC can be described as the USB for the wired Internet of Things (IoT) and simplifies the connecting of microcontrollers featuring different sensors and capabilities. JACDAC enables a network of microcontrollers to work together in highly dynamic environments, yet, makes doing so as simple as plugging a pair of headphones into a 3.5mm socket. Mr. Devine developed JACDAC as part of an internship at Microsoft Research in the United States. His software was originally designed to help develop a multiplayer aspect to Microsoft’s MakeCode Arcade – a web-based application that lets people create their own games for handheld gaming devices."_
 
@@ -44,7 +44,7 @@ Lufkin Independent School District is using Microsoft MakeCode with Adafruit Cir
 
 ## Bots! Robotics Engineering with Hands-On Makerspace Activities
 
-[![Bots Robotics Engineering with Hands-On Makerspace Activities](../assets/09092019/9919botsbook.jpg)](https://nomadpress.net/nomadpress-books/bots-robotics-engineering/)
+[![Bots Robotics Engineering with Hands-On Makerspace Activities](/assets/09092019/9919botsbook.jpg)](https://nomadpress.net/nomadpress-books/bots-robotics-engineering/)
 
 **Build and Program a Recycled Robot with MakeCode!** by [Kathy Ceceri](https://twitter.com/KathyCeceri)!
 
@@ -126,7 +126,7 @@ placeholder text.
 
 ## New guides using MakeCode!
 
-[![2D Sidescrolling Platformer](../assets/09092019/9919complete-2d-platformer-makecode-arcade.gif)](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade)
+[![2D Sidescrolling Platformer](/assets/09092019/9919complete-2d-platformer-makecode-arcade.gif)](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade)
 
 [2D Sidescrolling Platformer](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade) with MakeCode Arcade.
 
@@ -181,25 +181,25 @@ Microsoft MakeCode is a free, open source platform for creating engaging compute
 
 **Simulator**
 
-[![Simulator](../assets/08142019/81419sim.jpg)](https://www.microsoft.com/en-us/makecode/about)
+[![Simulator](/assets/08142019/81419sim.jpg)](https://www.microsoft.com/en-us/makecode/about)
 
 An interactive simulator provides students with immediate feedback on how their program is running and makes it easy to test and debug their code.
 
 **Block Editor**
 
-[![Block Editor](../assets/08142019/81419block.jpg)](https://www.microsoft.com/en-us/makecode/about)
+[![Block Editor](/assets/08142019/81419block.jpg)](https://www.microsoft.com/en-us/makecode/about)
 
 Students new to coding can start with colored blocks that they can drag and drop onto their workspace to construct their programs.
 
 **JavaScript Editor**
 
-[![JavaScript Editor](../assets/08142019/81419jsed.jpg)](https://www.microsoft.com/en-us/makecode/about)
+[![JavaScript Editor](/assets/08142019/81419jsed.jpg)](https://www.microsoft.com/en-us/makecode/about)
 
 When they are ready, students can move into a full-featured JavaScript editor with code snippets, tooltips, and error detection to help them.
 
 ## MakeCode Arcade
 
-[![MakeCode Arcade](../assets/08142019/arcade.png)](https://arcade.makecode.com/)
+[![MakeCode Arcade](/assets/08142019/arcade.png)](https://arcade.makecode.com/)
 
 Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create retro arcade games for the web and for microcontrollers. In this guide, you will learn how to assemble your own Arcade hardware from different parts. MakeCode Arcade is open source, and on [GitHub](https://github.com/microsoft/pxt-arcade).
 
