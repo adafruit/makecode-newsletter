@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <base href="{{ site.url }}{{ site.baseurl }}/" />
     <title>MakeCode « Adafruit Daily</title>
 		<link rel="alternate" type="application/rss+xml" title="MakeCode Feed" href="/feed.xml">
 		<link rel="stylesheet" id="af-core-css" href="https://www.adafruitdaily.com/app/themes/adafruit2013/style.css?ver=1502388216" type="text/css" media="all">
@@ -30,7 +30,7 @@
           {% endif %} 
           <div class="archive-entry">
             <h4 class="entry-date">{{ post.date | date: "%d" }}</h4>
-            <h4 class="entry-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+            <h4 class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
           </div>
         {% endfor %}
       </div>
