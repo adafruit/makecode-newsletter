@@ -140,10 +140,6 @@ See students build the ToddleBot with EV3 LEGO, programmed with MakeCode. [YouTu
 
 MakeCode on a micro:bit controls a Lego robotic arm in this coffee shop build. [YouTube](https://www.youtube.com/watch?v=yhYMkQhljYs&feature=youtu.be)
 
-[![MakeCode Sidescroller Game Tutorial](/assets/09092019/9919sidescroller-fame.gif)](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade)
-
-Tutorials from Little Bird on making a side-scroller platformer game with MakeCode Arcade. [Website](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade)
-
 [![Glue Stick Holder Urchin](/assets/09092019/gluesticks.png)](https://twitter.com/sophywong/status/1161874685409103872)
 
 Says Sophy Wong: _"Threw an adafruit Circuit Playground Express into my 3D printed glue stick holder urchin and now I have invented the perfect mood lighting for crafters"_
