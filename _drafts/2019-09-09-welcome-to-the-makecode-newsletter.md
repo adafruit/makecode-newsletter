@@ -42,6 +42,13 @@ Microsoft researchers teamed up with designers at the Brooklyn Public Library’
 
 Lufkin Independent School District is using Microsoft MakeCode with Adafruit Circuit Playground Express to challenge students with projects that build creativity, computational thinking, and collaboration skills. Lufkin District video - [YouTube](https://youtu.be/rcpAA59Pppo).
 
+
+## LED Dog Collar made with JavaScript in MakeCode
+
+[![I made a LED dog collar with JavaScript](/assets/09092019/dogcollar.gif)](https://medium.com/@secretsquirrel/i-made-a-led-dog-collar-with-javascript-1c10ff973550)
+
+>_"JavaScript is truly EVERYWHERE, and now I’ve even added it to my dog. I was most excited to try the MakeCode Editor and finally write code for my wearables in JavaScript instead of hacking C++(ish) code together! So, I obviously used this opportunity to make a fancy collar my doggo for night walks. He’s a good boye and totally deserves a special collar. I also think that the steps in this build could just as easily be applied to other lighted apparel applications like adding some LEDs to your denim jacket or backpack or hat or -insert your awesome idea here-... "_
+
 ## Bots! Robotics Engineering with Hands-On Makerspace Activities
 
 [![Bots Robotics Engineering with Hands-On Makerspace Activities](/assets/09092019/9919botsbook.jpg)](https://nomadpress.net/nomadpress-books/bots-robotics-engineering/)
@@ -136,6 +143,18 @@ MakeCode on a micro:bit controls a Lego robotic arm in this coffee shop build. [
 [![MakeCode Sidescroller Game Tutorial](/assets/09092019/9919sidescroller-fame.gif)](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade)
 
 Tutorials from Little Bird on making a side-scroller platformer game with MakeCode Arcade. [Website](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade)
+
+[![Glue Stick Holder Urchin](/assets/09092019/gluesticks.png)](https://twitter.com/sophywong/status/1161874685409103872)
+
+Says Sophy Wong: _"Threw an adafruit Circuit Playground Express into my 3D printed glue stick holder urchin and now I have invented the perfect mood lighting for crafters"_
+
+[![Elvis -- a Flamboyant Snake Game](/assets/09092019/snake.png)](https://twitter.com/wecodemakecode/status/1153766816906452993)
+
+From @WeCodeMakeCode: _"Elvis -- a Flamboyant Snake in #MakeCode #Arcade -- read about, play game and download code at http://wecodemakecode.com . Snake moves automatically with direction changed by player using buttons. To play game and view code click https://makecode.com/_6b8XPh9s78oL ."_
+
+[![Microsoft STEM Experience](/assets/09092019/msft500.jpg)](https://twitter.com/MSMakeCode/status/1143593617107423232)
+
+Microsoft MakeCode team was at ISTE19 Ed Tech Conference: _"If you’re at #ISTE19, come say “hi” and set a high score on our arcade! We’re under the “Microsoft STEM Experience” sign. #MicrosoftEDU"_
 
 ## Coming soon
 
