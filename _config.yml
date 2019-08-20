@@ -8,7 +8,6 @@ jailed: false
 theme: jekyll-theme-primer
 gfm_quirks: paragraph_end
 repository: adafruit/makecode-newsletter
-baseurl: /makecode-newsletter
 exclude:
     - "_drafts/template.md"
     - "README.md"
