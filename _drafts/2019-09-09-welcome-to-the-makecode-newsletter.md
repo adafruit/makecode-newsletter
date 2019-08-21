@@ -14,7 +14,7 @@ categories: weekly
 [![MakeCode](/assets/08142019/hero.png)](https://www.makecode.com)
 
 ## The MakeCode Newsletter
-A newsletter devoted to Microsoft MakeCode. News, information, hardware, happenings, and more! Emailed out each month. Sign up [here](https://www.adafruitdaily.com/).
+A newsletter devoted to Microsoft MakeCode. News, information, hardware, happenings, and more! Emailed out each month. Sign up on [AdafruitDaily.com](https://www.adafruitdaily.com/).
 
 ## Welcome to MakeCode!
 
@@ -34,7 +34,7 @@ Microsoft researchers teamed up with designers at the Brooklyn Public Library’
 
 [![Lancaster Computer Science student’s research helps New York fashionistas](/assets/09092019/jacdac.jpg)](https://www.lancaster.ac.uk/news/lancaster-computer-science-students-research-helps-new-york-fashionistas)
 
->_"James Devine, a student at Lancaster University’s School of Computing and Communications, has developed a new communication technology called JACDAC that helps different tiny embedded computers known as microcontrollers talk to each other more easily. JACDAC can be described as the USB for the wired Internet of Things (IoT) and simplifies the connecting of microcontrollers featuring different sensors and capabilities. JACDAC enables a network of microcontrollers to work together in highly dynamic environments, yet, makes doing so as simple as plugging a pair of headphones into a 3.5mm socket. Mr. Devine developed JACDAC as part of an internship at Microsoft Research in the United States. His software was originally designed to help develop a multiplayer aspect to Microsoft’s MakeCode Arcade – a web-based application that lets people create their own games for handheld gaming devices."_
+>_"[James Devine](https://twitter.com/James_A_Devine), a student at Lancaster University’s School of Computing and Communications, has developed a new communication technology called JACDAC that helps different tiny embedded computers known as microcontrollers talk to each other more easily. JACDAC can be described as the USB for the wired Internet of Things (IoT) and simplifies the connecting of microcontrollers featuring different sensors and capabilities. JACDAC enables a network of microcontrollers to work together in highly dynamic environments, yet, makes doing so as simple as plugging a pair of headphones into a 3.5mm socket. Mr. Devine developed JACDAC as part of an internship at Microsoft Research in the United States. His software was originally designed to help develop a multiplayer aspect to Microsoft’s MakeCode Arcade – a web-based application that lets people create their own games for handheld gaming devices. [Lancaster Univ.](https://www.lancaster.ac.uk/news/lancaster-computer-science-students-research-helps-new-york-fashionistas)"_
 
 ## Educator spotlight - Lufkin Independent School District: Project based learning with Microsoft MakeCode
 
@@ -47,7 +47,7 @@ Lufkin Independent School District is using Microsoft MakeCode with Adafruit Cir
 
 [![I made a LED dog collar with JavaScript](/assets/09092019/dogcollar.gif)](https://medium.com/@secretsquirrel/i-made-a-led-dog-collar-with-javascript-1c10ff973550)
 
->_"JavaScript is truly EVERYWHERE, and now I’ve even added it to my dog. I was most excited to try the MakeCode Editor and finally write code for my wearables in JavaScript instead of hacking C++(ish) code together! So, I obviously used this opportunity to make a fancy collar my doggo for night walks. He’s a good boye and totally deserves a special collar. I also think that the steps in this build could just as easily be applied to other lighted apparel applications like adding some LEDs to your denim jacket or backpack or hat or -insert your awesome idea here-... "_
+>_"JavaScript is truly EVERYWHERE, and now I’ve even added it to my dog. I was most excited to try the MakeCode Editor and finally write code for my wearables in JavaScript instead of hacking C++(ish) code together! So, I obviously used this opportunity to make a fancy collar my doggo for night walks. He’s a good boye and totally deserves a special collar. I also think that the steps in this build could just as easily be applied to other lighted apparel applications like adding some LEDs to your denim jacket or backpack or hat or -insert your awesome idea here-... " [@SecretSquirrel](https://twitter.com/secretsquirrel) on [Medium](https://medium.com/@secretsquirrel/i-made-a-led-dog-collar-with-javascript-1c10ff973550)_
 
 ## Bots! Robotics Engineering with Hands-On Makerspace Activities
 
@@ -105,13 +105,13 @@ Behind the MakeCode Hardware - [NeoPixels on Circuit Playground Express](https:/
 
 Check out the full list of Circuit Playground Express videos from [MakeCode on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXQQUE8bUh49XZklweVZVxT) and the entire [Behind the MakeCode Hardware series](https://www.youtube.com/playlist?list=PLMMBk9hE-SeqDYtw9pGNPsQ10V_EGMyGe).
 
-## MakeCode minute
+## MakeCode Minute
 
 [![MakeCode Minute: NeoPixel Strips](http://img.youtube.com/vi/OGKvAqpfhr0/0.jpg)](http://www.youtube.com/watch?v=OGKvAqpfhr0 "MakeCode Minute: NeoPixel Strips")
 
 MakeCode Minute: External NeoPixel Strips with MakeCode and Crickit! - [YouTube](https://youtu.be/OGKvAqpfhr0?list=PLjF7R1fz_OOU5gFO10qxLlbtN0YzZTyvk).
 
-Check out all the MakeCode minute [videos on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOU5gFO10qxLlbtN0YzZTyvk).
+Check out all the MakeCode Minute [videos on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOU5gFO10qxLlbtN0YzZTyvk).
 
 ## MakeCode Arcade Game of the week!
 
@@ -129,7 +129,7 @@ Check out all the MakeCode Arcade game of the week [videos on YouTube](https://w
 
 [![MakeCode Stencils](/assets/09092019/makecode-stencil.png)](https://blog.adafruit.com/2019/08/08/makecode-arcade-stencilr-turn-arcade-images-into-large-stencils-makecode-msmakecode-pelikhan/)
 
-Make Stencils using MakeCode Arcade! Via a [Twitter post](https://twitter.com/pelikhan/status/1157366681594822656) by Peli de Halleux, 
+Make Stencils using MakeCode Arcade! Via [Peli de Halleux](https://twitter.com/pelikhan/status/1157366681594822656), 
 you can use the [MakeCode Arcade Stencilr](https://arcade-stencils.glitch.me/) to turn sprites into painting stencils!
 
 [![ToddleBot](http://img.youtube.com/vi/L3orydBk7Ew/0.jpg)](https://www.youtube.com/watch?v=L3orydBk7Ew&feature=youtu.be)
@@ -142,21 +142,21 @@ MakeCode on a micro:bit controls a Lego robotic arm in this coffee shop build. [
 
 [![Glue Stick Holder Urchin](/assets/09092019/gluesticks.png)](https://twitter.com/sophywong/status/1161874685409103872)
 
-Says Sophy Wong: _"Threw an adafruit Circuit Playground Express into my 3D printed glue stick holder urchin and now I have invented the perfect mood lighting for crafters"_
+Sophy Wong says she: _"Threw an adafruit Circuit Playground Express into my 3D printed glue stick holder urchin and now I have invented the perfect mood lighting for crafters" - [Twitter](https://twitter.com/sophywong/status/1161874685409103872)_
 
 [![Elvis -- a Flamboyant Snake Game](/assets/09092019/snake.png)](https://twitter.com/wecodemakecode/status/1153766816906452993)
 
-From @WeCodeMakeCode: _"Elvis -- a Flamboyant Snake in #MakeCode #Arcade -- read about, play game and download code at http://wecodemakecode.com . Snake moves automatically with direction changed by player using buttons. To play game and view code click https://makecode.com/_6b8XPh9s78oL ."_
+From [@WeCodeMakeCode](https://twitter.com/WeCodeMakeCode): _"Elvis -- a Flamboyant Snake in #MakeCode #Arcade -- [read about, play game and download code](http://wecodemakecode.com). Snake moves automatically with direction changed by player using buttons. [Play the game and view the code](https://makecode.com/_6b8XPh9s78oL)."_
 
 [![Microsoft STEM Experience](/assets/09092019/msft500.jpg)](https://twitter.com/MSMakeCode/status/1143593617107423232)
 
-Microsoft MakeCode team was at ISTE19 Ed Tech Conference: _"If you’re at #ISTE19, come say “hi” and set a high score on our arcade! We’re under the “Microsoft STEM Experience” sign. #MicrosoftEDU"_
+Microsoft MakeCode team was at ISTE19 Ed Tech Conference: _"If you’re at #ISTE19, come say “hi” and set a high score on our arcade! We’re under the “Microsoft STEM Experience” sign. #MicrosoftEDU" [Twitter](https://twitter.com/MSMakeCode/status/1143593617107423232)_
 
-## Coming soon
+## Coming Soon
 
 placeholder text.
 
-## New guides using MakeCode!
+## New Guides using MakeCode!
 
 [![2D Sidescrolling Platformer](/assets/09092019/9919complete-2d-platformer-makecode-arcade.gif)](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade)
 
@@ -185,7 +185,7 @@ placeholder text.
 
 placeholder text.
 
-## Resouces for educators and more!
+## Resouces for Educators and more!
 
 placeholder text.
 
