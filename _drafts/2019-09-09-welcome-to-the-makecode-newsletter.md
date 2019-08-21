@@ -146,11 +146,11 @@ Sophy Wong says she: _"Threw an adafruit Circuit Playground Express into my 3D p
 
 [![Elvis -- a Flamboyant Snake Game](/assets/09092019/snake.png)](https://twitter.com/wecodemakecode/status/1153766816906452993)
 
-From [@WeCodeMakeCode](https://twitter.com/WeCodeMakeCode): _"Elvis -- a Flamboyant Snake in #MakeCode #Arcade -- [read about, play game and download code](http://wecodemakecode.com). Snake moves automatically with direction changed by player using buttons. [Play the game and view the code](https://makecode.com/_6b8XPh9s78oL)."_
+From [@WeCodeMakeCode](https://twitter.com/WeCodeMakeCode): _"Elvis -- a Flamboyant Snake in [#MakeCode](https://twitter.com/search?q=%23makecode) [#Arcade](https://twitter.com/search?q=%23makecodearcade) -- [read about, play game and download code](http://wecodemakecode.com). Snake moves automatically with direction changed by player using buttons. [Play the game and view the code](https://makecode.com/_6b8XPh9s78oL)."_
 
 [![Microsoft STEM Experience](/assets/09092019/msft500.jpg)](https://twitter.com/MSMakeCode/status/1143593617107423232)
 
-Microsoft MakeCode team was at ISTE19 Ed Tech Conference: _"If you’re at #ISTE19, come say “hi” and set a high score on our arcade! We’re under the “Microsoft STEM Experience” sign. #MicrosoftEDU"_ - [Twitter](https://twitter.com/MSMakeCode/status/1143593617107423232)
+Microsoft MakeCode team was at ISTE19 Ed Tech Conference: _"If you’re at [#ISTE19](https://twitter.com/search?q=%ISTE19), come say “hi” and set a high score on our arcade! We’re under the “Microsoft STEM Experience” sign. [#MicrosoftEDU](https://twitter.com/search?q=%23MicrosoftEDU)"_ - [Twitter](https://twitter.com/MSMakeCode/status/1143593617107423232)
 
 ## Coming Soon
 
