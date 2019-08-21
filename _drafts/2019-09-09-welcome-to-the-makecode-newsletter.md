@@ -142,7 +142,7 @@ MakeCode on a micro:bit controls a Lego robotic arm in this coffee shop build. [
 
 [![Glue Stick Holder Urchin](/assets/09092019/gluesticks.png)](https://twitter.com/sophywong/status/1161874685409103872)
 
-Sophy Wong says she: _"Threw an adafruit Circuit Playground Express into my 3D printed glue stick holder urchin and now I have invented the perfect mood lighting for crafters" - [Twitter](https://twitter.com/sophywong/status/1161874685409103872)_
+Sophy Wong says she: _"Threw an adafruit Circuit Playground Express into my 3D printed glue stick holder urchin and now I have invented the perfect mood lighting for crafters"_ - [Twitter](https://twitter.com/sophywong/status/1161874685409103872)
 
 [![Elvis -- a Flamboyant Snake Game](/assets/09092019/snake.png)](https://twitter.com/wecodemakecode/status/1153766816906452993)
 
@@ -150,7 +150,7 @@ From [@WeCodeMakeCode](https://twitter.com/WeCodeMakeCode): _"Elvis -- a Flamboy
 
 [![Microsoft STEM Experience](/assets/09092019/msft500.jpg)](https://twitter.com/MSMakeCode/status/1143593617107423232)
 
-Microsoft MakeCode team was at ISTE19 Ed Tech Conference: _"If you’re at #ISTE19, come say “hi” and set a high score on our arcade! We’re under the “Microsoft STEM Experience” sign. #MicrosoftEDU" [Twitter](https://twitter.com/MSMakeCode/status/1143593617107423232)_
+Microsoft MakeCode team was at ISTE19 Ed Tech Conference: _"If you’re at #ISTE19, come say “hi” and set a high score on our arcade! We’re under the “Microsoft STEM Experience” sign. #MicrosoftEDU"_ - [Twitter](https://twitter.com/MSMakeCode/status/1143593617107423232)
 
 ## Coming Soon
 
