@@ -22,13 +22,13 @@ Placeholder text.
 
 ## BKLYN Fashion Academy Class of 2019 Shines at Runway Show
 
-[![Fashion forward: Researchers, designers debut new tech on New York City runway](http://img.youtube.com/vi/TvSmYga2Pic/0.jpg)](http://www.youtube.com/watch?v=TvSmYga2Pic "Fashion forward: Researchers, designers debut new tech on New York City runway") -YouTube
+[![Fashion forward: Researchers, designers debut new tech on New York City runway](http://img.youtube.com/vi/TvSmYga2Pic/0.jpg)](http://www.youtube.com/watch?v=TvSmYga2Pic "Fashion forward: Researchers, designers debut new tech on New York City runway") - YouTube
 
 [BKLYN Fashion Academy Class of 2019 Shines at Runway Show](https://bklyner.com/bklyn-fashion-academy-class-of-2019-shines-at-runway-show/) - wearable technology sponsored by Microsoft Research and Microsoft MakeCode.
 
 Microsoft researchers teamed up with designers at the Brooklyn Public Library’s BKLYN Fashion Academy to enhance the storytelling power of their garments using custom-made plug-and-play microcontroller technology. The collaboration culminated in a fashion show on May 3 at the Brooklyn Public Library’s Central Library in New York City. The tech was the first application of [Project Alava](https://www.microsoft.com/en-us/research/project/alava), which aims to lower the barriers of entry to programming by creating microcontroller-based systems that are easy to construct, code and debug. Alava leverages the open-source framework powering Microsoft MakeCode and the bus-based communication protocol [JACDAC](https://jacdac.org).
 
-[![Fashion forward: Researchers, designers debut new tech on New York City runway](http://img.youtube.com/vi/tOBmwL_-zPQ/0.jpg)](http://www.youtube.com/watch?v=tOBmwL_-zPQ "Fashion forward: Researchers, designers debut new tech on New York City runway") -YouTube
+[![Fashion forward: Researchers, designers debut new tech on New York City runway](http://img.youtube.com/vi/tOBmwL_-zPQ/0.jpg)](http://www.youtube.com/watch?v=tOBmwL_-zPQ "Fashion forward: Researchers, designers debut new tech on New York City runway") - YouTube
 
 **Lancaster Computer Science student’s research helps New York fashionistas**
 
@@ -61,7 +61,7 @@ Lufkin Independent School District is using Microsoft MakeCode with Adafruit Cir
 
 ## Interview: Jacqueline Russell, Principal Program Manager, Microsoft MakeCode
 
-[![Jacqueline Russell, Principal Program Manager, Microsoft MakeCode](http://img.youtube.com/vi/LBNNAfj-GGc/0.jpg)](http://www.youtube.com/watch?v=LBNNAfj-GGc "Jacqueline Russell, Principal Program Manager, Microsoft MakeCode") -YouTube
+[![Jacqueline Russell, Principal Program Manager, Microsoft MakeCode](http://img.youtube.com/vi/LBNNAfj-GGc/0.jpg)](http://www.youtube.com/watch?v=LBNNAfj-GGc "Jacqueline Russell, Principal Program Manager, Microsoft MakeCode") - YouTube
 
 placeholder text.
 
@@ -77,29 +77,29 @@ placeholder text.
 
 ## Meet Meowbit: Programmable Retro Game Computer
 
-[![Meet Meowbit: Programmable Retro Game Computer](http://img.youtube.com/vi/qvIrioiKMw4/0.jpg)](http://www.youtube.com/watch?v=qvIrioiKMw4 "Meet Meowbit: Programmable Retro Game Computer") -YouTube
+[![Meet Meowbit: Programmable Retro Game Computer](http://img.youtube.com/vi/qvIrioiKMw4/0.jpg)](http://www.youtube.com/watch?v=qvIrioiKMw4 "Meet Meowbit: Programmable Retro Game Computer") - YouTube
 
 [Meowbit](https://www.kittenbot.cc/products/meowbit-codable-console-for-microsoft-makecode-arcade) is a card-sized graphical retro game computer with allows you coding with Makecode arcade and Python.  It contains 1.8' full-color screen, 6 x programmable buttons ,1 x buzzer, built-in light sensor , temperatur sensor, SD card slot ,multyplayer connector and edge connector. Espcially the edge connector could access most micro:bit expension boards. We recommend to use Robot:bit for Mewobit, it can help you create a robot quickly - [YouTube](http://www.youtube.com/watch?v=qvIrioiKMw4).
 
 ## MakeCode Playlist! Circuit Playground Express
 
-[![Light Sensor on the Circuit Playground Express](http://img.youtube.com/vi/9LrWQ68lO20/0.jpg)](http://www.youtube.com/watch?v=9LrWQ68lO20 "Light Sensor on the Circuit Playground Express") -YouTube
+[![Light Sensor on the Circuit Playground Express](http://img.youtube.com/vi/9LrWQ68lO20/0.jpg)](http://www.youtube.com/watch?v=9LrWQ68lO20 "Light Sensor on the Circuit Playground Express") - YouTube
 
 Behind the MakeCode Hardware - [Light Sensor on the Circuit Playground Express](https://youtu.be/9LrWQ68lO20).
 
-[![Infrared on the Circuit Playground Express](http://img.youtube.com/vi/0EMuaMClfos/0.jpg)](http://www.youtube.com/watch?v=0EMuaMClfos "Infrared on the Circuit Playground Express") -YouTube
+[![Infrared on the Circuit Playground Express](http://img.youtube.com/vi/0EMuaMClfos/0.jpg)](http://www.youtube.com/watch?v=0EMuaMClfos "Infrared on the Circuit Playground Express") - YouTube
 
 Behind the MakeCode Hardware - [Infrared on the Circuit Playground Express](https://youtu.be/0EMuaMClfos).
 
-[![Microphone on Circuit Playground Express](http://img.youtube.com/vi/g5894PVYOF4/0.jpg)](http://www.youtube.com/watch?v=g5894PVYOF4 "Microphone on Circuit Playground Express") -YouTube
+[![Microphone on Circuit Playground Express](http://img.youtube.com/vi/g5894PVYOF4/0.jpg)](http://www.youtube.com/watch?v=g5894PVYOF4 "Microphone on Circuit Playground Express") - YouTube
 
 Behind the MakeCode Hardware - [Microphone on Circuit Playground Express](https://youtu.be/g5894PVYOF4).
 
-[![Speaker on the Circuit Playground Express](http://img.youtube.com/vi/JjJ-KGwKh_4/0.jpg)](http://www.youtube.com/watch?v=JjJ-KGwKh_4 "Speaker on the Circuit Playground Express") -YouTube
+[![Speaker on the Circuit Playground Express](http://img.youtube.com/vi/JjJ-KGwKh_4/0.jpg)](http://www.youtube.com/watch?v=JjJ-KGwKh_4 "Speaker on the Circuit Playground Express") - YouTube
 
 Behind the MakeCode Hardware - [Speaker on the Circuit Playground Express](https://youtu.be/JjJ-KGwKh_4).
 
-[![NeoPixels on Circuit Playground Express](http://img.youtube.com/vi/Bo0cM2qmuAE/0.jpg)](http://www.youtube.com/watch?v=Bo0cM2qmuAE "NeoPixels on Circuit Playground Express") -YouTube
+[![NeoPixels on Circuit Playground Express](http://img.youtube.com/vi/Bo0cM2qmuAE/0.jpg)](http://www.youtube.com/watch?v=Bo0cM2qmuAE "NeoPixels on Circuit Playground Express") - YouTube
 
 Behind the MakeCode Hardware - [NeoPixels on Circuit Playground Express](https://youtu.be/Bo0cM2qmuAE).
 
@@ -107,7 +107,7 @@ Check out the full list of Circuit Playground Express videos from [MakeCode on Y
 
 ## MakeCode Minute
 
-[![MakeCode Minute: NeoPixel Strips](http://img.youtube.com/vi/OGKvAqpfhr0/0.jpg)](http://www.youtube.com/watch?v=OGKvAqpfhr0 "MakeCode Minute: NeoPixel Strips") -YouTube
+[![MakeCode Minute: NeoPixel Strips](http://img.youtube.com/vi/OGKvAqpfhr0/0.jpg)](http://www.youtube.com/watch?v=OGKvAqpfhr0 "MakeCode Minute: NeoPixel Strips") - YouTube
 
 MakeCode Minute: External NeoPixel Strips with MakeCode and Crickit! - [YouTube](https://youtu.be/OGKvAqpfhr0?list=PLjF7R1fz_OOU5gFO10qxLlbtN0YzZTyvk).
 
@@ -115,7 +115,7 @@ Check out all the MakeCode Minute [videos on YouTube](https://www.youtube.com/pl
 
 ## MakeCode Arcade Game of the week!
 
-[![akeCode Arcade Game of the Week: Dance Party](http://img.youtube.com/vi/LRXn45u-9Po/0.jpg)](http://www.youtube.com/watch?v=LRXn45u-9Po "akeCode Arcade Game of the Week: Dance Party") -YouTube
+[![akeCode Arcade Game of the Week: Dance Party](http://img.youtube.com/vi/LRXn45u-9Po/0.jpg)](http://www.youtube.com/watch?v=LRXn45u-9Po "akeCode Arcade Game of the Week: Dance Party") - YouTube
 
 MakeCode Arcade Game of the Week: Dance Party Remastered by shaqattack8 - [MakeCode Forums](https://forum.makecode.com/t/dance-party-remastered-microsoft-makecode/385).
 
@@ -123,7 +123,7 @@ Check out all the MakeCode Arcade game of the week [videos on YouTube](https://w
 
 ## News from around the web!
 
-[![BrainPad at the Detroit Maker Faire](http://img.youtube.com/vi/AcvoMmHl1DM/0.jpg)](http://www.youtube.com/watch?v=AcvoMmHl1DM "BrainPad at the Detroit Maker Faire") -YouTube
+[![BrainPad at the Detroit Maker Faire](http://img.youtube.com/vi/AcvoMmHl1DM/0.jpg)](http://www.youtube.com/watch?v=AcvoMmHl1DM "BrainPad at the Detroit Maker Faire") - YouTube
 
 [BrainPad](https://www.brainpad.com/) at the Detroit Maker Faire - [YouTube](https://youtu.be/AcvoMmHl1DM). Check out all the [BrainPad videos](https://www.youtube.com/channel/UCYvU-GOQCX97aDu3o4bxl_Q/videos).
 
@@ -132,11 +132,11 @@ Check out all the MakeCode Arcade game of the week [videos on YouTube](https://w
 Make Stencils using MakeCode Arcade! Via [Peli de Halleux](https://twitter.com/pelikhan/status/1157366681594822656), 
 you can use the [MakeCode Arcade Stencilr](https://arcade-stencils.glitch.me/) to turn sprites into painting stencils!
 
-[![ToddleBot](http://img.youtube.com/vi/L3orydBk7Ew/0.jpg)](https://www.youtube.com/watch?v=L3orydBk7Ew&feature=youtu.be) -YouTube
+[![ToddleBot](http://img.youtube.com/vi/L3orydBk7Ew/0.jpg)](https://www.youtube.com/watch?v=L3orydBk7Ew&feature=youtu.be) - YouTube
 
 See students build the ToddleBot with EV3 LEGO, programmed with MakeCode. [YouTube](https://www.youtube.com/watch?v=L3orydBk7Ew&feature=youtu.be)
 
-[![Yahboom Arm:bit with Micro:bit](http://img.youtube.com/vi/yhYMkQhljYs/0.jpg)](https://www.youtube.com/watch?v=yhYMkQhljYs&feature=youtu.be) -YouTube
+[![Yahboom Arm:bit with Micro:bit](http://img.youtube.com/vi/yhYMkQhljYs/0.jpg)](https://www.youtube.com/watch?v=yhYMkQhljYs&feature=youtu.be) - YouTube
 
 MakeCode on a micro:bit controls a Lego robotic arm in this coffee shop build. [YouTube](https://www.youtube.com/watch?v=yhYMkQhljYs&feature=youtu.be)
 
