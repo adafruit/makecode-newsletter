@@ -152,6 +152,10 @@ From [@WeCodeMakeCode](https://twitter.com/WeCodeMakeCode): _"Elvis -- a Flamboy
 
 Microsoft MakeCode team was at ISTE19 Ed Tech Conference: _"If you’re at [#ISTE19](https://twitter.com/search?q=%ISTE19), come say “hi” and set a high score on our arcade! We’re under the “Microsoft STEM Experience” sign. [#MicrosoftEDU](https://twitter.com/search?q=%23MicrosoftEDU)"_ - [Twitter](https://twitter.com/MSMakeCode/status/1143593617107423232)
 
+[![Beating Heart with Speed Control](/assets/09092019/danoHeart02.gif)](https://twitter.com/danowall/status/11639792849454817280)
+
+Adafruit's own Dano Wall created this amazing beating heart prop with a slide potentiometer speed control, Circuit Playground Express, four servo motors, some cardboard, and red stretchy fabric. Awesome! [Twitter](https://twitter.com/danowall/status/1163979284945481728)
+
 ## Coming Soon
 
 placeholder text.
