@@ -22,9 +22,9 @@ Placeholder text.
 
 ## BKLYN Fashion Academy Class of 2019 Shines at Runway Show
 
-[![Fashion forward: Researchers, designers debut new tech on New York City runway](http://img.youtube.com/vi/TvSmYga2Pic/0.jpg)](http://www.youtube.com/watch?v=TvSmYga2Pic "Fashion forward: Researchers, designers debut new tech on New York City runway") - YouTube
+[![Fashion forward: Researchers, designers debut new tech on New York City runway](http://img.youtube.com/vi/TvSmYga2Pic/0.jpg)](http://www.youtube.com/watch?v=TvSmYga2Pic "Fashion forward: Researchers, designers debut new tech on New York City runway")
 
-[BKLYN Fashion Academy Class of 2019 Shines at Runway Show](https://bklyner.com/bklyn-fashion-academy-class-of-2019-shines-at-runway-show/) - wearable technology sponsored by Microsoft Research and Microsoft MakeCode.
+[BKLYN Fashion Academy Class of 2019 Shines at Runway Show](https://bklyner.com/bklyn-fashion-academy-class-of-2019-shines-at-runway-show/) - wearable technology sponsored by Microsoft Research and Microsoft MakeCode - [YouTube](http://www.youtube.com/watch?v=TvSmYga2Pi).
 
 Microsoft researchers teamed up with designers at the Brooklyn Public Library’s BKLYN Fashion Academy to enhance the storytelling power of their garments using custom-made plug-and-play microcontroller technology. The collaboration culminated in a fashion show on May 3 at the Brooklyn Public Library’s Central Library in New York City. The tech was the first application of [Project Alava](https://www.microsoft.com/en-us/research/project/alava), which aims to lower the barriers of entry to programming by creating microcontroller-based systems that are easy to construct, code and debug. Alava leverages the open-source framework powering Microsoft MakeCode and the bus-based communication protocol [JACDAC](https://jacdac.org).
 
