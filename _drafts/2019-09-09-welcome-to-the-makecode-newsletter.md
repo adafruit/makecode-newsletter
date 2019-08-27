@@ -85,13 +85,13 @@ placeholder text [YouTube](http://www.youtube.com/watch?v=LBNNAfj-GGc)
 
 ## MakeCode Playlist! Circuit Playground Express
 
-[![Light Sensor on the Circuit Playground Express](http://img.youtube.com/vi/9LrWQ68lO20/0.jpg)](http://www.youtube.com/watch?v=9LrWQ68lO20 "Light Sensor on the Circuit Playground Express") - YouTube
+[![Light Sensor on the Circuit Playground Express](http://img.youtube.com/vi/9LrWQ68lO20/0.jpg)](http://www.youtube.com/watch?v=9LrWQ68lO20 "Light Sensor on the Circuit Playground Express")
 
-Behind the MakeCode Hardware - [Light Sensor on the Circuit Playground Express](https://youtu.be/9LrWQ68lO20).
+Behind the MakeCode Hardware - [Light Sensor on the Circuit Playground Express on YouTube](https://youtu.be/9LrWQ68lO20).
 
-[![Infrared on the Circuit Playground Express](http://img.youtube.com/vi/0EMuaMClfos/0.jpg)](http://www.youtube.com/watch?v=0EMuaMClfos "Infrared on the Circuit Playground Express") - YouTube
+[![Infrared on the Circuit Playground Express](http://img.youtube.com/vi/0EMuaMClfos/0.jpg)](http://www.youtube.com/watch?v=0EMuaMClfos "Infrared on the Circuit Playground Express")
 
-Behind the MakeCode Hardware - [Infrared on the Circuit Playground Express](https://youtu.be/0EMuaMClfos).
+Behind the MakeCode Hardware - [Infrared on the Circuit Playground Express on YouTube](https://youtu.be/0EMuaMClfos).
 
 [![Microphone on Circuit Playground Express](http://img.youtube.com/vi/g5894PVYOF4/0.jpg)](http://www.youtube.com/watch?v=g5894PVYOF4 "Microphone on Circuit Playground Express")
 
@@ -105,7 +105,7 @@ Behind the MakeCode Hardware - [Speaker on the Circuit Playground Express on You
 
 Behind the MakeCode Hardware - [NeoPixels on Circuit Playground Express on YouTube](https://youtu.be/Bo0cM2qmuAE).
 
-Check out the full list of Circuit Playground Express videos from [MakeCode on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXQQUE8bUh49XZklweVZVxT) and the entire [Behind the MakeCode Hardware series](https://www.youtube.com/playlist?list=PLMMBk9hE-SeqDYtw9pGNPsQ10V_EGMyGe).
+Check out the full list of Circuit Playground Express videos from [MakeCode on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXQQUE8bUh49XZklweVZVxT) and the entire [Behind the MakeCode Hardware series on YouTube](https://www.youtube.com/playlist?list=PLMMBk9hE-SeqDYtw9pGNPsQ10V_EGMyGe).
 
 ## MakeCode Minute
 
