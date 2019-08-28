@@ -189,7 +189,20 @@ placeholder text.
 
 ## Latest releases
 
-placeholder text.
+[MakeCode Arcade Beta speedups](https://forum.makecode.com/t/arcade-beta-v0-14-0-faster/463)
+
+The new beta is now at https://arcade.makecode.com/beta
+
+* the compiler is now incremental, meaning much faster; after initial project load you should experience almost immediate simulator re-runs; compiling for hardware will still take a few seconds; we would appreciate any error reports - watch out for situation when you get a strange compiler failure, but when you reload the page, it goes away - if this happens, please report!
+* the high score should now be preserved on hardware for a given game (identified by project name); same mechanism will apply in simulator; there are now also APIs for storing state (ie. save games)
+
+Other changes:
+
+* https://github.com/microsoft/pxt-common-packages/pull/920 tile collision fixes
+* https://github.com/microsoft/pxt-common-packages/pull/906 animation extension
+* https://github.com/microsoft/pxt-common-packages/pull/930 support for images bigger than 255x255
+* https://github.com/microsoft/pxt-common-packages/pull/932 control.micros() and control.benchmark()
+* https://github.com/microsoft/pxt-common-packages/pull/937 meowbit accelerometer fixes
 
 ## Resouces for Educators and more!
 
