@@ -166,7 +166,9 @@ placeholder text.
 
 [![2D Sidescrolling Platformer](/assets/09092019/9919complete-2d-platformer-makecode-arcade.gif)](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade)
 
-[2D Sidescrolling Platformer](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade) with MakeCode Arcade.
+[2D Sidescrolling Platformer](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade) with MakeCode Arcade, by Little Bird.
+
+[Add Levels to 2D Platformer](https://www.littlebird.com.au/a/how-to/197/add-levels-to-2d-platformer-in-makecode-arcade) with MakeCode Arcade, by Little Bird.
 
 * [Go Fishing with Rotary Encoders](https://learn.adafruit.com/gone-fishing-game).
 * [Plantagotchi: PyBadge Plant Monitor](https://learn.adafruit.com/plantagotchi-pybadge-plant-monitor).
