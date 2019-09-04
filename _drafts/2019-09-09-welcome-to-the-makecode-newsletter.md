@@ -163,6 +163,10 @@ Adafruit's own Dano Wall created this amazing beating heart prop with a slide po
 Via [Twitter](https://twitter.com/msftresearch/status/1168930130321989632?s=11) on the [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/rocket-fast-embedded-typescript-for-makecode-arcade/?ocid=msr_blog_makearcd_tw), _"…If we were going to inspire the next generation of coders, easier entry into the world of computer science would be important. To accomplish this, we designed a high-level programming language with text and graphical input modalities along with a simple yet powerful set of programming libraries. 
 With Arcade, STS lets developers of all skill levels easily write cool retro-style pixelated games—think Super Mario Bros., but even better because it’s designed by the user—to be run either inside a virtual game console in the browser or on inexpensive microcontroller-based handhelds."_
 
+[![Create MakeCode Tutorials right inside MakeCode](/assets/09092019/mctut_500px.jpg)](https://blog.adafruit.com/2019/09/04/creating-custom-tutorials-in-microsoft-makecode-tutorial-makecode-msmakecode/)
+
+You can create cutstom tutorials for MakeCode [right inside of MakeCode itself!](https://blog.adafruit.com/2019/09/04/creating-custom-tutorials-in-microsoft-makecode-tutorial-makecode-msmakecode/) Head to the JavaScript editor and add markdown-based tutorials and rendered inline block examples to help people follow along!
+
 ## Coming Soon
 
 placeholder text.
