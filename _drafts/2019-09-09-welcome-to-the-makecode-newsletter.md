@@ -158,6 +158,11 @@ Microsoft MakeCode team was at ISTE19 Ed Tech Conference: _"If you’re at [#IST
 
 Adafruit's own Dano Wall created this amazing beating heart prop with a slide potentiometer speed control, Circuit Playground Express, four servo motors, some cardboard, and red stretchy fabric. Awesome! [Twitter](https://twitter.com/danowall/status/1163979284945481728)
 
+[![Rocket-fast Embedded TypeScript for MakeCode Arcade by Microsoft Research](/assets/09092019/MakeCode-Arcade_rocket.jpg)](https://twitter.com/msftresearch/status/1168930130321989632?s=11)
+
+Via [Twitter](https://twitter.com/msftresearch/status/1168930130321989632?s=11) on the [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/rocket-fast-embedded-typescript-for-makecode-arcade/?ocid=msr_blog_makearcd_tw), _"…If we were going to inspire the next generation of coders, easier entry into the world of computer science would be important. To accomplish this, we designed a high-level programming language with text and graphical input modalities along with a simple yet powerful set of programming libraries. 
+With Arcade, STS lets developers of all skill levels easily write cool retro-style pixelated games—think Super Mario Bros., but even better because it’s designed by the user—to be run either inside a virtual game console in the browser or on inexpensive microcontroller-based handhelds."_
+
 ## Coming Soon
 
 placeholder text.
