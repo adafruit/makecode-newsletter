@@ -106,7 +106,7 @@ Adafruit recently had a Q&A with Jacqueline Russell, Principal Program Manager, 
 
 > Yes, Microsoft has many investments around assistive technology solutions and accessibility is a top priority across all our products.  MakeCode does have accessibility features built-in, for keyboard navigation and screen readers – [see here](https://makecode.com/accessibility).  We have spoken with folks on the Xbox Adaptive Controller team, and also Microsoft Research’s [Project Torino](https://www.microsoft.com/en-us/research/project/project-torino/).
 
-**WebUSB seems like an interesting technology (not having to install a driver or browser extension on Chromebooks or other devices). Is that on the radar?**
+**[WebUSB](https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web) seems like an interesting technology (not having to install a driver or browser extension on Chromebooks or other devices). Is that on the radar?**
 
 > Yes.
 
