@@ -100,13 +100,13 @@ Adafruit recently had a Q&A with Jacqueline Russell, Principal Program Manager, 
 
 **The Internet of Things is of growing interest. Is the MakeCode team looking at taking advantage of boards with an attached ESP32 or similar WiFi chip to communicate?  Like micro:bit, are other Bluetooth-enabled boards going to have communications capability and what Bluetooth modes will be supported?**
 
-> MakeCode is really focused on classroom scenarios and capabilities right now. As soon as there’s an affordable K12 classroom-ready IoT cloud solution that’s easy for students and teachers to procure, access and use, we’ll be on it! Bluetooth is definitely more common in the classroom, but also tricky when you have 30 devices – dropped connections, or incorrect connections (“Hey, who’s controlling my robot?!”) are always a bit of a management overhead for teachers.
+> MakeCode is really focused on classroom scenarios and capabilities right now. As soon as there’s an affordable K-12 classroom-ready IoT cloud solution that’s easy for students and teachers to procure, access and use, we’ll be on it! Bluetooth is definitely more common in the classroom, but also tricky when you have 30 devices – dropped connections, or incorrect connections (“Hey, who’s controlling my robot?!”) are always a bit of a management overhead for teachers.
 
 **Microcontrollers allow for making customized assistive technology (AT) projects. Is the MakeCode team working on features facilitating AT device creation? Is the MakeCode team talking to the Xbox Adaptive Controller team? What are the current priorities in AT type capabilities, for example USB, HID, Bluetooth, etc.?**
 
 > Yes, Microsoft has many investments around assistive technology solutions and accessibility is a top priority across all our products.  MakeCode does have accessibility features built-in, for keyboard navigation and screen readers – [see here](https://makecode.com/accessibility).  We have spoken with folks on the Xbox Adaptive Controller team, and also Microsoft Research’s [Project Torino](https://www.microsoft.com/en-us/research/project/project-torino/).
 
-**1WebUSB seems like an interesting technology (not having to install a driver or browser extension on Chromebooks or other devices). Is that on the radar?*
+**1WebUSB seems like an interesting technology (not having to install a driver or browser extension on Chromebooks or other devices). Is that on the radar?**
 
 > Yes.
 
