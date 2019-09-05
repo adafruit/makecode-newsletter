@@ -65,6 +65,55 @@ Lufkin Independent School District is using Microsoft MakeCode with Adafruit Cir
 
 [![Jacqueline Russell, Principal Program Manager, Microsoft MakeCode](http://img.youtube.com/vi/LBNNAfj-GGc/0.jpg)](http://www.youtube.com/watch?v=LBNNAfj-GGc "Jacqueline Russell, Principal Program Manager, Microsoft MakeCode")
 
+Adafruit recently had a Q&A with Jacqueline Russell, Principal Program Manager, Microsoft MakeCode and here is the take on MakeCode present and possible future:
+
+**What are some of the most requested feature requests you get from users/students/educators for future development?**
+
+> Being able to upload and use sound or image assets.  I spoke with a student who was building a robotic cow with Circuit Playground Express, and he wanted to be able to upload a .wav file of a cow mooing for his project. And I hear variants of this request a lot. It would be really cool to use any assets in your MakeCode projects, but it also poses a security risk. Once you create a door in your ‘walled garden’ you need to implement security measures and content curation checks – so you don’t accidentally ingest malicious code, or inappropriate content. Being an educational product built for kids, we just have to be super careful with this kind of stuff.  Doesn’t mean that we will never do it, but we’re just being cautious right now.
+
+**Can we ever hope to see MakeCode make its way onto a gaming console such as the Xbox?**
+
+> Ha! Not anytime soon… you know in 2009 Microsoft built a coding tool specifically for the Xbox, called Kodu (https://www.kodugamelab.com/).  It’s really cool – it’s 3D and the coding is a horizontal grammar with circular menu controls that are optimized for using a game controller. If we did want to build an interface for a gaming console, we’d want to create a similar design that would be easy to use with a controller input, and we’d have to think about some sort of game environment that makes use of the big screen and great graphics – Project Spark (https://en.wikipedia.org/wiki/Project_Spark) was another really cool product in this space.
+
+**It's currently up to the user to save/organize/archive their MakeCode programs. Are there any plans to put some kind of version control or user accounts in place? Maybe a My First GitHub could be on the horizon?
+
+> Yes, we get this request a lot. Not having logins is a double-edged sword. On the one hand, it’s great there are no barriers to entry – in 1 click you can start coding. But on the other hand, in classrooms with shared computers, it can be a real burden for teachers and students to manage their projects. We are looking at adding identity support to MakeCode – where you don’t have to login, but you can.  This will allow students to be able to have a portfolio of their projects saved in their OneDrive or other cloud storage that they can access from any device. No dates on when this will go live, but we’re working on it! “My First GitHub repo” is a great idea… maybe something we can look at on the next horizon…
+
+**In the past I've heard complaints that the limitations of block-based programming cause people to fairly quickly get frustrated or try to move to text-based coding. It seems like you've created MakeCode in such a way that we're able to do interesting, sophisticated things without ever leaving Blocks mode. Was this something you targeted during development? How'd you do it?**
+
+> Yes, there’s a lot of research around the visual block-based programming model, and how that has really made computer science more approachable and less scary for a lot of different types of kids ([see here for an example](https://computinged.wordpress.com/2018/08/20/all-students-learning-programming-do-better-with-block-based-languages-and-the-impact-is-greatest-for-female-and-minority-students)). The mission of MakeCode is not to create more genius computer scientists, our mission is to inspire new generations of technology makers – and that means making sure every student feels empowered to create and construct with technology. So, when we are designing our API’s (Application Programming Interface) or our Blocks, we try to balance simplicity with flexibility – such that a student who has never coded before can look at a block and intuitively know what it does, but at the same time, a more advanced student can say look at the light namespace in Circuit Playground Express and use all the associated properties/methods to be able to express what they want to do in TypeScript.  Low floors, high ceilings, wide walls.
+
+**If there is a functionality that does not appear currently in a MakeCode version, is there a method to suggest adding it, and if so where would the suggestion be posted?**
+
+> Yes!  We love to hear from folks!  Bugs and feature requests should go in [GitHub](https://github.com/microsoft/pxt) – make sure to document how to reproduce the bug, or give us specifics on the feature request (how and why).  If you want to make a comment or start a discussion, or just listen to discussions, then we have a forum you can join.
+*	Circuit Playground Express GitHub – https://github.com/microsoft/pxt-adafruit/issues
+*	Arcade GitHub – https://github.com/microsoft/pxt-arcade/issues
+*	MakeCode Forum – https://forum.makecode.com/
+
+**Can you tell me more about the plans for static Python? Python is of interest to more people lately and it may be a good fit for certain curriculums.**
+
+> We have support today for static TypeScript (a subset of JavaScript) as the user programming language in MakeCode ([see here](https://www.microsoft.com/en-us/research/blog/rocket-fast-embedded-typescript-for-makecode-arcade/) for more information on TypeScript in Arcade). And we are also exploring supporting the Python programming language as well. This work is still underway, and no dates yet on when we’ll release, but if you want to play around with it, you can find it in Arcade under Experiments. I know people can get really attached to specific programming languages, but from our perspective, we are teaching kids computing concepts – not specific programming language syntax, and whether they learn JavaScript or Python doesn’t really matter to us – it’s all goodness! For more on our specific language implementation, see https://makecode.com/language. 
+
+**I am interested in applications involving text on the devices coming out with displays. Are you considering augmenting MakeCode or MakeCode Arcade to allow for printing strings to a display?**
+
+> Not sure I fully understand this question, but I’ll answer it 2 ways and hope one is the question you were asking. We do have Console blocks today where you can print out strings and values that show up in the console view of MakeCode.  If you’re talking about displaying strings on a microcontroller device, you can do that with Arcade using the Dialog blocks.
+
+**The Internet of Things is of growing interest. Is the MakeCode team looking at taking advantage of boards with an attached ESP32 or similar WiFi chip to communicate?  Like micro:bit, are other Bluetooth-enabled boards going to have communications capability and what Bluetooth modes will be supported?**
+
+> MakeCode is really focused on classroom scenarios and capabilities right now. As soon as there’s an affordable K12 classroom-ready IoT cloud solution that’s easy for students and teachers to procure, access and use, we’ll be on it! Bluetooth is definitely more common in the classroom, but also tricky when you have 30 devices – dropped connections, or incorrect connections (“Hey, who’s controlling my robot?!”) are always a bit of a management overhead for teachers.
+
+**Microcontrollers allow for making customized assistive technology (AT) projects. Is the MakeCode team working on features facilitating AT device creation? Is the MakeCode team talking to the Xbox Adaptive Controller team? What are the current priorities in AT type capabilities, for example USB, HID, Bluetooth, etc.?**
+
+> Yes, Microsoft has many investments around assistive technology solutions and accessibility is a top priority across all our products.  MakeCode does have accessibility features built-in, for keyboard navigation and screen readers – [see here](https://makecode.com/accessibility).  We have spoken with folks on the Xbox Adaptive Controller team, and also Microsoft Research’s [Project Torino](https://www.microsoft.com/en-us/research/project/project-torino/).
+
+**1WebUSB seems like an interesting technology (not having to install a driver or browser extension on Chromebooks or other devices). Is that on the radar?*
+
+> Yes.
+
+**Does MakeCode have support from senior management? Will MakeCode be supported by Microsoft for awhile? (re. developing curricula is time consuming, so having something that will be around for awhile saves time).**
+
+> Yes :-)
+
 placeholder text [YouTube](http://www.youtube.com/watch?v=LBNNAfj-GGc)
 
 * Week 1: Micro:Pet
