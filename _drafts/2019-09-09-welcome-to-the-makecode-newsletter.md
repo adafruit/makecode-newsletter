@@ -108,15 +108,8 @@ Adafruit recently had a Q&A with Jacqueline Russell, Principal Program Manager, 
 
 > Yes :-)
 
-placeholder text [YouTube](http://www.youtube.com/watch?v=LBNNAfj-GGc)
+Check out some of the recent projects and more with the Summer of MakeCode for kids - [Microsoft Research](https://www.microsoft.com/en-us/research/blog/summer-of-makecode-for-kids/).
 
-* Week 1: Micro:Pet
-* Week 2: Fortune Teller
-* Week 3: Minecraft Obstacle Course
-* Week 4: LEGO MINDSTORMS City
-* Week 5: Cue the Messenger
-* Week 6: Chibitronics birthday card
-* Summer of MakeCode for kids - [Microsoft Research](https://www.microsoft.com/en-us/research/blog/summer-of-makecode-for-kids/).
 * Jacqueline - [Twitter](https://twitter.com/jaqster).
 * Microsoft MakeCode - [Microsoft Research](https://www.microsoft.com/en-us/research/project/microsoft-makecode/).
 
@@ -210,10 +203,6 @@ With Arcade, STS lets developers of all skill levels easily write cool retro-sty
 
 You can create cutstom tutorials for MakeCode [right inside of MakeCode itself!](https://blog.adafruit.com/2019/09/04/creating-custom-tutorials-in-microsoft-makecode-tutorial-makecode-msmakecode/) Head to the JavaScript editor and add markdown-based tutorials and rendered inline block examples to help people follow along!
 
-## Coming Soon
-
-placeholder text.
-
 ## New Guides using MakeCode!
 
 [![2D Sidescrolling Platformer](/assets/09092019/9919complete-2d-platformer-makecode-arcade.gif)](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade)
@@ -228,18 +217,6 @@ placeholder text.
 * [PyGamer NeoPixel Controller](https://learn.adafruit.com/pygamer-neopixel-controller).
 
 And check out all [MakeCode guides on learn.adafruit.com](https://learn.adafruit.com/search?q=makecode).
-
-## New Extensions!
-
-placeholder text.
-
-## New Hardware!
-
-placeholder text.
-
-## Upcoming events!
-
-placeholder text.
 
 ## Latest releases
 
@@ -260,7 +237,7 @@ Other changes:
 
 ## Resouces for Educators and more!
 
-placeholder text.
+If we missed any resources, please let us know, we'll be updating this list each newsletter.
 
 * [MakeCode](https://www.microsoft.com/en-us/makecode/)
 * [MakeCode forums](https://forum.makecode.com/)
@@ -276,10 +253,6 @@ placeholder text.
 * [MakeCode Arcade Game of the Week on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUpC_QY_Y5CmPKm-a5Cg4Qo)
 * [MakeCode posts on Adafruit](https://blog.adafruit.com/category/makecode/)
 * [MakeCode guides on learn.adafruit.com](https://learn.adafruit.com/search?q=makecode)
-
-## NUMBER thanks!
-
-The Adafruit Discord community, where we do all our MakeCode development in the open, reached over NUMBER humans, thank you! Join today! [https://adafru.it/discord](https://adafru.it/discord)
 
 ## What is Microsoft MakeCode?
 Microsoft MakeCode is a free, open source platform for creating engaging computer science learning experiences that support a progression path into real-world programming.
