@@ -203,6 +203,10 @@ With Arcade, STS lets developers of all skill levels easily write cool retro-sty
 
 You can create cutstom tutorials for MakeCode [right inside of MakeCode itself!](https://blog.adafruit.com/2019/09/04/creating-custom-tutorials-in-microsoft-makecode-tutorial-makecode-msmakecode/) Head to the JavaScript editor and add markdown-based tutorials and rendered inline block examples to help people follow along!
 
+[![MakeCode Arcade Game Jam on itch.io](/assets/09092019/mkcd-jam_500px.gif)](https://aka.ms/arcadejam)
+
+MakeCode and itch.io are teaming up for the first ever MakeCode Arcade game jam! _"...In the spirit of WarioWare, Inc., you'll design a micro-game that can be played in 5 seconds! Afterwards, we'll combine these individual minigames into one game file so your creations can be played back-to-back. There are no restrictions on theme or game mechanics, as long as the game ends in five seconds."_ As soon as the contest launches on Monday, Sept. 9, head to [this page](https://aka.ms/arcadejam) for more info! 
+
 ## New Guides using MakeCode!
 
 [![2D Sidescrolling Platformer](/assets/09092019/9919complete-2d-platformer-makecode-arcade.gif)](https://www.littlebird.com.au/a/how-to/189/2d-sidescrolling-platformer-with-makecode-arcade)
