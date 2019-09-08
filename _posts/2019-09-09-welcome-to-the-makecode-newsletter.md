@@ -229,11 +229,11 @@ The new beta is now at https://arcade.makecode.com/beta
 
 Other changes:
 
-* https://github.com/microsoft/pxt-common-packages/pull/920 tile collision fixes
-* https://github.com/microsoft/pxt-common-packages/pull/906 animation extension
-* https://github.com/microsoft/pxt-common-packages/pull/930 support for images bigger than 255x255
-* https://github.com/microsoft/pxt-common-packages/pull/932 control.micros() and control.benchmark()
-* https://github.com/microsoft/pxt-common-packages/pull/937 meowbit accelerometer fixes
+* [Tile collision fixes](https://github.com/microsoft/pxt-common-packages/pull/920)
+* [Animation extension](https://github.com/microsoft/pxt-common-packages/pull/906)
+* [Support for images bigger than 255x255 pixels](https://github.com/microsoft/pxt-common-packages/pull/930)
+* [Control.micros() and control.benchmark()](https://github.com/microsoft/pxt-common-packages/pull/932)
+* [Meowbit accelerometer fixes](https://github.com/microsoft/pxt-common-packages/pull/937)
 
 ## Resouces for Educators and more!
 
