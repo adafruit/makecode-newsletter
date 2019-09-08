@@ -279,7 +279,7 @@ When they are ready, students can move into a full-featured JavaScript editor wi
 
 [![MakeCode Arcade](/assets/08142019/arcade.png)](https://arcade.makecode.com/)
 
-Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create retro arcade games for the web and for microcontrollers. In this guide, you will learn how to assemble your own Arcade hardware from different parts. MakeCode Arcade is open source, and on [GitHub](https://github.com/microsoft/pxt-arcade).
+Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create retro arcade games for the web and for microcontrollers. In this guide, you will learn how to assemble your own Arcade hardware from different parts. MakeCode Arcade is open source and available on [GitHub](https://github.com/microsoft/pxt-arcade).
 
 ## Extending MakeCode
 - [Creating Targets](https://makecode.com/target-creation) - new hardware platforms for MakeCode
