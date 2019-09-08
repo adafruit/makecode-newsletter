@@ -1,24 +1,18 @@
 ---
 layout: post
-title: "Welcome to MakeCode!"
+title: "Welcome to the MakeCode Newsletter!"
 date: 2019-09-09 07:00:00 -0800
 categories: weekly
 ---
-
-- [x] change date
-- [x] update title
-- [ ] Feature story
-- [ ] Update [![](/assets/DIR-LOCATION/)]() for images
-- [ ] All images 550w max only
 
 [![MakeCode](/assets/08142019/hero.png)](https://www.makecode.com)
 
 ## The MakeCode Newsletter
 A newsletter devoted to Microsoft MakeCode. News, information, hardware, happenings, and more! Emailed out each month. Sign up on [AdafruitDaily.com](https://www.adafruitdaily.com/).
 
-## Welcome to MakeCode!
+## Welcome to the MakeCode Newsletter!
 
-Placeholder text.
+Welcome to our first MakeCode newsletter, we're kicking this off just in time for back to school and packed this newsletter with tons of resources for educators! Special thanks to Microsoft for supporting the inaugural newsletter!
 
 ## BKLYN Fashion Academy Class of 2019 Shines at Runway Show
 
