@@ -2,7 +2,7 @@
 
 1.	A good template for looking at the final result is looking at the previous weeks’ post on blog.adafruit.com
 
-2.	Download the issues images to your computer from GitHub. Then copy all the image files to the Adafruit Blog Wordpress Media area
+2.	Download the issues images to your computer from GitHub. Then copy all the image files to the Adafruit Blog Wordpress Media area https://blog.adafruit.com/wp/wp-admin/
 
 3.	Go to https://makecode.adafruitdaily.com/ in a browser and find the latest adafruitdaily blog entry and click on it. Alternatively get the newsletter from your inbox.
 4.	Use the browser View Source
