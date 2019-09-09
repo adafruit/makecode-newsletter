@@ -11,7 +11,7 @@
 
 6.	Paste the HTML into an editor with search/replace
 
-7.	Search for /assets/09092019 (or whatever date it is) and replace with cdn-blog.adafruit.com
+7.	Search for /assets/09092019 (or whatever date it is) and replace with https://cdn-blog.adafruit.com/uploads/2019/09 with the proper year and month.
 
 8.	Copy all the text
 
