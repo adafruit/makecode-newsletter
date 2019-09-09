@@ -4,7 +4,7 @@
 
 2.	Download the issues images to your computer from GitHub. Then copy all the image files to the Adafruit Blog Wordpress Media area
 
-3.	Go to https://www.adafruitdaily.com/category/makecode/ in a browser and find the latest adafruitdaily blog entry and click on it. Alternatively get the newsletter from your inbox.
+3.	Go to https://makecode.adafruitdaily.com/ in a browser and find the latest adafruitdaily blog entry and click on it. Alternatively get the newsletter from your inbox.
 4.	Use the browser View Source
 
 5.	Copy all the HTML from the newsletter heading to the end paragraph about contributing. The HTML before and after that is not needed and should not be used.
