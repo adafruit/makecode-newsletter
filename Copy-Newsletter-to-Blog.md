@@ -31,6 +31,8 @@ ICYMI (In case you missed it) – MakeCode Newsletter from AdafruitDaily.com wen
 
 The next newsletter goes out in a week and being subscribed the best way to keep up with all things MakeCode.
 
+Please link the words "Subscribe now" to https://www.adafruitdaily.com/
+
 15.	Add Categories: ADAFRUIT DAILY, MAKECODE, PUBLICATIONS
 
 16.	Add Tags: ADAFRUIT DAILY, NEWSLETTER, MAKECODE
