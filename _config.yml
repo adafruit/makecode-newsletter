@@ -6,6 +6,7 @@ kramdown:
 future: true
 jailed: false
 theme: jekyll-theme-primer
+title: Microsoft MakeCode
 gfm_quirks: paragraph_end
 repository: adafruit/makecode-newsletter
 exclude:
