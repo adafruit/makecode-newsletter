@@ -4,7 +4,8 @@
 
 2.	Copy all the image files to the Adafruit Blog Wordpress Media area
 
-3.	Go to the email with the newsletter in a web based browser.
+3.	Go to the email with the newsletter in a web based browser. (Another source for this is the archive: http://makecode.adafruitdaily.com/monthly/2019/10/07/xenomorph-candy-bucket-spooky-workshops-makecode.html)
+
 
 4.	Use the browser View Source
 
@@ -13,7 +14,8 @@
 6.	Paste the HTML into a text editor with search/replace
 
 7.	Search for /assets/mmddyy and replace with https://cdn-blog.adafruit.com/uploads/20yy/mm
-    for example: replace /assets/100719 with https://cdn-blog.adafruit.com/uploads/2019/10 for October 7, 2019
+    for example: replace /assets/100719 with https://cdn-blog.adafruit.com/uploads/2019/10 for October 7, 2019 
+    There are some at the bottom that come from August, maybe move those to a non-changing directory at some point.
 
 8.	Copy all the resulting text
 
@@ -32,6 +34,7 @@ ICYMI (In case you missed it) – Tuesday’s MakeCode Newsletter from AdafruitD
 The next newsletter goes out in a month and being subscribed the best way to keep up with all things MakeCode.
 
 Over 200 subscribers worldwide!
+
 14.	Add Categories: ADAFRUIT DAILY, MakeCode, PUBLICATIONS
 
 15.	Add Tags: ADAFRUIT DAILY, MakeCode, NEWSLETTER
