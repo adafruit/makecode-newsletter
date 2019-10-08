@@ -12,7 +12,8 @@
 
 6.	Paste the HTML into a text editor with search/replace
 
-7.	Search for cdn-daily-blog.adafruitdaily.com and replace with cdn-blog.adafruit.com
+7.	Search for /assets/mmddyy and replace with https://cdn-blog.adafruit.com/uploads/20yy/mm
+    for example: replace /assets/100719 with https://cdn-blog.adafruit.com/uploads/2019/10 for October 7, 2019
 
 8.	Copy all the resulting text
 
