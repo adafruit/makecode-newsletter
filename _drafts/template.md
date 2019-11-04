@@ -4,7 +4,7 @@ title: "Featured story title here!"
 date: 2019-00-00 07:00:00 -0800
 categories: weekly
 ---
-Editors: change the date and update title above
+Editors: change the date and update the title above
 
 [![MakeCode](/assets/08142019/hero.png)](https://www.makecode.com)
 
