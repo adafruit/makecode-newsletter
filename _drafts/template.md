@@ -55,7 +55,7 @@ placeholder text.
 
 ## New Hardware!
 
-## Upcoming events!
+## Upcoming Events!
 
 placeholder text.
 
