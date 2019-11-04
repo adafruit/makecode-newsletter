@@ -4,33 +4,28 @@ title: "Featured story title here!"
 date: 2019-00-00 07:00:00 -0800
 categories: weekly
 ---
+Editors: change the date and update title above
 
 [![MakeCode](/assets/08142019/hero.png)](https://www.makecode.com)
 
 ## The MakeCode Newsletter
-A newsletter devoted to Microsoft MakeCode. News, information, happenings, etc. Content for the MakeCode newsletter. Emailed out each month. Sign up [here](https://www.adafruitdaily.com/).
+This is a newsletter devoted to Microsoft MakeCode. News, information, happenings, etc. from around the globe.  Emailed out each month. If you'd like to receive this newsletter each month via email, sign up [here](https://www.adafruitdaily.com/).
 
-Feature story text here
-
-change date
-
-update title
-
-## Feature story!
+## Feature Story!
 
 placeholder text.
 
-## Educator spotlight
+## Educator Spotlight
 
 placeholder text.
 
-## MakeCode minute
+## MakeCode Minute
 
 placeholder text.
 
 Check out all the MakeCode minute [videos on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOU5gFO10qxLlbtN0YzZTyvk).
 
-## MakeCode Arcade Game of the week!
+## MakeCode Arcade Game of the Week!
 
 placeholder text.
 
@@ -44,11 +39,11 @@ Check out all the MakeCode Arcade game of the week [videos on YouTube](https://w
 
 #ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)?
 
-## Coming soon
+## Coming Soon
 
 placeholder text.
 
-## New guides using MakeCode!
+## New Guides using MakeCode!
 
 [title](url) from [name](url).
 
@@ -64,11 +59,11 @@ placeholder text.
 
 placeholder text.
 
-## Latest releases
+## Latest Releases
 
 placeholder text.
 
-## Resouces for educators and more!
+## Resouces for Educators and more!
 
 placeholder text.
 
