@@ -4,7 +4,9 @@ title: "Featured story title here!"
 date: 2019-00-00 07:00:00 -0800
 categories: weekly
 ---
-Editors: change the date and update the title above
+Editors: change the date and title above
+
+Missed a previous issue? No worries, you can check out the archive [right here](http://makecode.adafruitdaily.com/)!
 
 [![MakeCode](/assets/08142019/hero.png)](https://www.makecode.com)
 
