@@ -14,13 +14,13 @@ Missed a previous issue? No worries, you can check out the archive [right here](
 
 ## Deep Breathing Encouragement with Circuit Playground Express!
 
-[![](/assets/12032019/12102019-blow.png/)](https://twitter.com/wecodemakecode/status/1191741152917147650?s=21)
+[![](/assets/12032019/12102019-blow.png)](https://twitter.com/wecodemakecode/status/1191741152917147650?s=21)
 
 mOTivator Labs writes "Loving Adafruit CPX for encouraging deep breathing w/reluctant students in my sensory brk room. It uses (the) photon function to count 10 breaths & animation for the finish." - [Twitter](https://twitter.com/motivatorlabs/status/1193922473336672257?s=21)
 
 ## Educator Spotlight
 
-[![](/assets/12032019/12102019-morrill.png/)](https://makecode.adafruit.com/courses/maker/intro/author)
+[![](/assets/12032019/12102019-morrill.png)](https://makecode.adafruit.com/courses/maker/intro/author)
 
 [Rob Morrill](https://twitter.com/morrill_rob) is the Maker Lab Coordinator for [St. Matthew’s Episcopal School](http://stmatthewsday.org/), in San Mateo, California. He teaches 1st through 8th grade technology skills classes, designs and facilitates projects in the maker lab, and collaborates, advises, and trains other faculty members in their use of academic technology. He is the author of the [Maker Course for the Adafruit Circuit Playground Express](https://makecode.adafruit.com/courses/maker) available online.
 
@@ -56,7 +56,7 @@ Check out all the MakeCode Arcade game of the week [videos on YouTube](https://w
 
 Videos on using MakeCode Maker to program Adafruit Circuit Playground Express
 
-[![](/assets/12032019/12102019-youtube.png/)](https://www.youtube.com/watch?v=rUzgv8823Vk)
+[![](/assets/12032019/12102019-youtube.png)](https://www.youtube.com/watch?v=rUzgv8823Vk)
 
 [MakeCode and Hardware](https://www.youtube.com/channel/UCYvU-GOQCX97aDu3o4bxl_Q) on YouTube features two new videos on using the Adafruit Circuit Playground Express in Microsoft MakeCode Maker:
 
@@ -65,24 +65,24 @@ Videos on using MakeCode Maker to program Adafruit Circuit Playground Express
 
 [Balance Boards with MakeCode](https://twitter.com/morrill_rob/status/1192088615079137281)
 
-[![](/assets/12032019/12102019-balance.png/)](https://twitter.com/wecodemakecode/status/1191741152917147650?s=21)
+[![](/assets/12032019/12102019-balance.png)](https://twitter.com/wecodemakecode/status/1191741152917147650?s=21)
 
 Rob Morrill writes "High school Fitness class students used woodshop tools last week to make balance boards. Art and Adafruit CPX microcontrollers added yesterday. Coded in MakeCode using accelerometer input. Every few seconds of balance = another NeoPixel lit. Light+sound party when 10 lit!" - [Twitter](https://twitter.com/morrill_rob/status/1192088615079137281)
 
 [Random Lines on MakeCode Arcade](https://twitter.com/wecodemakecode/status/1191741152917147650?s=21)
 
-[![](/assets/12032019/12102019-lines.gif/)](https://twitter.com/wecodemakecode/status/1191741152917147650?s=21)
+[![](/assets/12032019/12102019-lines.gif)](https://twitter.com/wecodemakecode/status/1191741152917147650?s=21)
 
 We Code MakeCode posts: "We made the program 'Random Lines' to explore the art of random lines in MakeCode Arcade -- and to experiment with our first MakeCode Slider. [Download and play](https://makecode.com/_06FD2beUAPju). [See our blog](https://wecodemakecode.com/2019/09/23/the-art-of-random-lines-in-makecode-arcade/). - [Twitter](https://twitter.com/wecodemakecode/status/1191741152917147650?s=21) and [YouTube](https://www.youtube.com/watch?v=J1qA7mnw198)
 
 [Floating Name Tags](https://twitter.com/KathyCeceri/status/1195170587926302720)
 
-[![](/assets/12032019/floatname.jpg/)](https://twitter.com/KathyCeceri/status/1195170587926302720)
+[![](/assets/12032019/floatname.jpg)](https://twitter.com/KathyCeceri/status/1195170587926302720)
 
 Kathy Ceceri posts: _My @MSMakeCode Arcade Floating Name Tag program for  @adafruit PyBadge worked great at #vtfest2019 today! Your name bounces back and forth and floats away when you shake it. Such a fun project, inspired by @anne_engineer!_ Here's the [code](https://arcade.makecode.com/41003-59664-24544-38665).
 
 
-[![](/assets/12032019/12102019-kittenbot.png/)](https://www.kittenbot.cc/)
+[![](/assets/12032019/12102019-kittenbot.png)](https://www.kittenbot.cc/)
 ### Interview: Christina Zhang from Kittenbot, maker of the Meowbit and other maker products.
 
 Adafruit recently held a Q&A with Christina Zhang from Kittenbot! Here is the take:
@@ -115,13 +115,13 @@ Yes, of course. But we are not sure what Adafruit's guidelines are to a hardware
 
 We have the Bridge board as our second Makecode Arcade compatible board now. It is basically a extension of a Metro M4. And we have finished the arcade shield, and CNC/3D printer shield is on the horizon. Here are pictures of the Bridge Arcade Shield:
 
-[![](/assets/12032019/12102019-kittenbot-BAS.png/)](https://www.kittenbot.cc/)
+[![](/assets/12032019/12102019-kittenbot-BAS.png)](https://www.kittenbot.cc/)
 
-[![](/assets/12032019/12102019-kittenbot-BAS2.png/)](https://www.kittenbot.cc/)
+[![](/assets/12032019/12102019-kittenbot-BAS2.png)](https://www.kittenbot.cc/)
 
 [Disguise the Turkey](https://twitter.com/nitdoggx/status/1197986577470894081)
 
-[![](/assets/12032019/12102019-turkey.gif/)](https://twitter.com/nitdoggx/status/1197986577470894081)
+[![](/assets/12032019/12102019-turkey.gif)](https://twitter.com/nitdoggx/status/1197986577470894081)
 
 [Nithin Shenoy](https://twitter.com/nitdoggx) writes: "Taking the mundane "disguise the turkey" up a notch with an Adafruit
  Circuit Playground. Code done via [Microsoft MakeCode](https://twitter.com/MSMakeCode) by my 1st Grade daughter." - [Twitter](https://twitter.com/nitdoggx/status/1197986577470894081)
@@ -130,7 +130,7 @@ We have the Bridge board as our second Makecode Arcade compatible board now. It 
 
 ## Coming Soon
 
-[![](/assets/12032019/gamepup.jpg/)](https://twitter.com/pdp7/status/1192637620435636224?s=19)
+[![](/assets/12032019/gamepup.jpg)](https://twitter.com/pdp7/status/1192637620435636224?s=19)
 
 [Drew Fustini](https://twitter.com/pdp70) writes, _Success! @MSMakeCode Arcade running on the @beagleboardorg PocketBeagle with the @GHIElectronics GamePup gaming cape!_ - [Twitter](https://twitter.com/pdp7/status/1192637620435636224?s=19)
 
@@ -138,11 +138,11 @@ We're looking forward to the [GamePup Cape](https://github.com/beagleboard/capes
 
 ## Guides using MakeCode!
 
-[![](/assets/12032019/12102019-dumpster.gif/)](https://learn.adafruit.com/desktop-dumpster-fire/)
+[![](/assets/12032019/12102019-dumpster.gif)](https://learn.adafruit.com/desktop-dumpster-fire/)
 
 New: [Desktop Dumster Fire](https://learn.adafruit.com/desktop-dumpster-fire/) by [Dano Wall](https://learn.adafruit.com/users/danowall).
 
-[![](/assets/12032019/12102019-globe.png/)](https://learn.adafruit.com/make-a-snowglobe-with-circuit-playground-makecode)
+[![](/assets/12032019/12102019-globe.png)](https://learn.adafruit.com/make-a-snowglobe-with-circuit-playground-makecode)
 
 Holiday classic: [Make a Snow Globe with Circuit Playground Express & MakeCode](https://learn.adafruit.com/make-a-snowglobe-with-circuit-playground-makecode) by [Liz Clark](https://learn.adafruit.com/users/BlitzCityDIY).
 
@@ -152,7 +152,7 @@ And check out all [MakeCode guides on learn.adafruit.com](https://learn.adafruit
 
 [MakeCode Arcade Pixelart Maker](https://twitter.com/robert_kalman/status/1194660136176037890?s=11)
 
-[![](/assets/12032019/12102019-mario.gif/)](https://twitter.com/robert_kalman/status/1194660136176037890?s=11)
+[![](/assets/12032019/12102019-mario.gif)](https://twitter.com/robert_kalman/status/1194660136176037890?s=11)
 
 Robert Kalman writes "Big shoutout to [@scientiffic](https://twitter.com/scientiffic) for creating this [MakeCode Arcade Pixelart Maker](https://makecode-pixelart-maker.glitch.me). Cool tool & learning exp for Ss -> Visual images to Code! If you have Ss designing games with [MakeCode Arcade](http://arcade.makecode.com), you need to try it! - [Twitter](https://twitter.com/robert_kalman/status/1194660136176037890?s=11)
 
@@ -160,7 +160,7 @@ Robert Kalman writes "Big shoutout to [@scientiffic](https://twitter.com/scienti
 
 [Adafruit Gear for MakeCode](https://www.adafruit.com/explore/makecode-arcade)
 
-[![](/assets/12032019/12102019-adafruit.png/)](https://www.adafruit.com/explore/makecode-arcade)
+[![](/assets/12032019/12102019-adafruit.png)](https://www.adafruit.com/explore/makecode-arcade)
 
 Adafruit has created a new area on their site to showcase Microsoft Arcade-compatible hardware.
 
@@ -174,13 +174,13 @@ Adafruit has created a new area on their site to showcase Microsoft Arcade-compa
 
 [25 Days of Making](https://sites.google.com/view/25-days-of-making/home)
 
-[![](/assets/12032019/12102019-25days.png/)](https://sites.google.com/view/25-days-of-making/home)
+[![](/assets/12032019/12102019-25days.png)](https://sites.google.com/view/25-days-of-making/home)
 
 The 25 Days of Making continues this month with all kinds of projects, including MakeCode. - [Website](https://sites.google.com/view/25-days-of-making/home)
 
 [Masterclass: Coding and Physical Computing Across the Curriculum with the micro:bit](https://twitter.com/garystager/status/1195063009174937600)
 
-[![](/assets/12032019/12102019-class.png/)](https://twitter.com/garystager/status/1195063009174937600)
+[![](/assets/12032019/12102019-class.png)](https://twitter.com/garystager/status/1195063009174937600)
 
 Coding Child's Play is now Child's Play! Attend San Francisco masterclass to learn how kids of all ages can program their own handheld gaming device, robotics, & the micro:bit. [Event registration](http://inventtolearn.com/dec12), [Article](https://inventtolearn.com/program-your-own-gameboy) - [Twitter](https://twitter.com/garystager/status/1195063009174937600) 
 
