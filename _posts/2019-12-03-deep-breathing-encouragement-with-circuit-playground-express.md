@@ -28,11 +28,11 @@ In his own words, “Academic technology and maker-style projects and challenges
 
 ## MakeCode Minute
 
-[![MakeCode Minute: DTMF Phone Dialer](/assets/12032019/dtmf.jpg)](https://youtu.be/c7OJxJzFsxw "")
+[![MakeCode Minute: DTMF Phone Dialer](/assets/12032019/dtmf.jpg)](https://youtu.be/c7OJxJzFsxw "MakeCode Minute: DTMF Phone Dialer")
 
 __MakeCode Minute - DTMF Phone Dialer__: Dial a phone using DTMF (dual tone multi-frequency), a.k.a. Touch Tone dialing! The Circuit Playground Express can play two tones at the same time, sending any phone number pad entry through your handset into the phone system. - [YouTube](https://youtu.be/c7OJxJzFsxw).
  
- [![MakeCode Minute: Rotary Phone Decoder](/assets/12032019/rotary.jpg)](https://youtu.be/6eABtD3nq8A "")
+ [![MakeCode Minute: Rotary Phone Decoder](/assets/12032019/rotary.jpg)](https://youtu.be/6eABtD3nq8A "MakeCode Minute: Rotary Phone Decoder")
 
 __MakeCode Minute - Rotary Phone Decoder__: Decode the pulses of a rotary dial phone using Circuit Playground Express and MakeCode! Plus, enter those numbers as USB HID keyboard key presses. You can make the inconvenient, obscure vault entry device of your dreams! - [YouTube](https://youtu.be/6eABtD3nq8A).
 
