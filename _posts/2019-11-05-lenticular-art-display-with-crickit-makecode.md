@@ -27,7 +27,7 @@ and [More details in the making of video](https://www.instagram.com/p/BzW7Z4QF69
 
 ## MakeCode Minute
 
-[![MakeCode Minute: IR Remote Keyboard](/assets/11052019/mcmir.jpg)](http://www.youtube.com/watch?v=VQ0Xb3-HLW8 "")
+[![MakeCode Minute: IR Remote Keyboard](/assets/11052019/mcmir.jpg)](http://www.youtube.com/watch?v=VQ0Xb3-HLW8 "MakeCode Minute: IR Remote Keyboard")
 
 __MakeCode Minute: IR Remote Keyboard__
 With a pair of Circuit Playground Express boards, create an infrared remote USB keyboard, mouse, or gamepad to control your computer! - [YouTube](http://www.youtube.com/watch?v=VQ0Xb3-HLW8).
