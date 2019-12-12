@@ -63,7 +63,7 @@ Stu Lowe has a MakeCode Arcade cabinet in the classroom! Students may upload the
 
 ## MakeCode Minute
 
-[![MakeCode Minute: Bubble Level](http://img.youtube.com/vi/-oCV8cwUqz0/0.jpg)](http://www.youtube.com/watch?v=-oCV8cwUqz0 "")
+[![MakeCode Minute: Bubble Level](http://img.youtube.com/vi/-oCV8cwUqz0/0.jpg)](http://www.youtube.com/watch?v=-oCV8cwUqz0)
 
 MakeCode Minute: Bubble Level with MakeCode and Circuit Playground Express! - [YouTube](http://www.youtube.com/watch?v=-oCV8cwUqz0).
 
@@ -179,7 +179,7 @@ The beta version of [MakeCode Arcade](https://arcade.makecode.com/beta) also has
 
 ## New Videos
 
-[![Tilemaps and Levels in MakeCode Arcade](http://img.youtube.com/vi/NBdkNyJegds/0.jpg)](http://www.youtube.com/watch?v=NBdkNyJegds "")
+[![Tilemaps and Levels in MakeCode Arcade](http://img.youtube.com/vi/NBdkNyJegds/0.jpg)](http://www.youtube.com/watch?v=NBdkNyJegds)
 
 Tilemaps and Levels in MakeCode Arcade - [YouTube](http://www.youtube.com/watch?v=NBdkNyJegds)
 
