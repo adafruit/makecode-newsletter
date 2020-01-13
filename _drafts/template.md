@@ -67,7 +67,7 @@ placeholder text.
 
 ## Resouces for Educators and more!
 
-placeholder text.
+If we missed any resources, please let us know on [GitHub](https://github.com/adafruit/makecode-newsletter/issues), we’ll be updating this list each newsletter.
 
 * [MakeCode](https://www.microsoft.com/en-us/makecode/)
 * [MakeCode forums](https://forum.makecode.com/)
