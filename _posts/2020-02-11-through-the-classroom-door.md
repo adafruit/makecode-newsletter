@@ -120,7 +120,7 @@ Photon is built as the first interactive robot that grows with a child by helpin
 
 [![Programming Sensors with MakeCode on micro:bit](/assets/02112020/02112020sensors.jpg)](https://www.youtube.com/watch?v=fL_PJMQEJYM)
 
-TechGirlz writes: February 22 @roanestate, Learn how to write code for the MicroBit, use its sensors and display to create cool gadgets that continue to work after being disconnected from the computer [Register here](https://buff.ly/2L8n8db) - [TechGirlz](https://www.techgirlz.org/techshop/fun-with-the-microbit/).
+TechGirlz writes: February 22 @roanestate, Learn how to write code for the micro:bit, use its sensors and display to create cool gadgets that continue to work after being disconnected from the computer [Register here](https://buff.ly/2L8n8db) - [TechGirlz](https://www.techgirlz.org/techshop/fun-with-the-microbit/).
 
 ## Latest Releases
 
@@ -128,7 +128,7 @@ TechGirlz writes: February 22 @roanestate, Learn how to write code for the Micro
 
 The Microsoft Education and MakeCode Twitter accounts tout the availability of Python in Minecraft Educational Edition (along with MakeCode):
 
-#Python is now available in @MSMakeCode. That means when your students open Code Builder in #MinecraftEdu, they have a whole new programming language to explore! Learn more about this new opportunity for computer science learning. - [Twitter](https://twitter.com/PlayCraftLearn/status/1220325816518823942) and [Microsoft](https://educationblog.microsoft.com/en-us/2020/01/live-from-bett-whats-new-in-edu-change-within-the-microsoft-educator-center-and-fostering-future-ready-skills-in-students/).
+"Python is now available in @MSMakeCode. That means when your students open Code Builder in #MinecraftEdu, they have a whole new programming language to explore! Learn more about this new opportunity for computer science learning." - [Twitter](https://twitter.com/PlayCraftLearn/status/1220325816518823942) and [Microsoft](https://educationblog.microsoft.com/en-us/2020/01/live-from-bett-whats-new-in-edu-change-within-the-microsoft-educator-center-and-fostering-future-ready-skills-in-students/).
 
 
 ## Resouces for Educators and more!
