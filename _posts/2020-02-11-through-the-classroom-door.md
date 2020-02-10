@@ -106,7 +106,7 @@ Microsoft recently announced a more full-featured game tilemap editor for Micros
 
 [![Robo HATT MM1](/assets/02112020/mm1.jpg)](https://twitter.com/RoboticMasters/status/1221370239440474114?s=20)
 
-Robotics Masters Robo HAT MM1 is a robotics and automation controller for Raspberry Pi that runs CircuitPython, Arduino, and now being tested inside of MakeCode! - [Twitter](https://twitter.com/RoboticMasters/status/1221370239440474114?s=20)
+Robotics Masters Robo HAT MM1 is a robotics and automation controller for Raspberry Pi that runs CircuitPython, Arduino, and now being tested inside of MakeCode! - [Twitter](https://twitter.com/RoboticMasters/status/1221370239440474114?s=20).
 
 [![GiggleBot](/assets/02112020/02112020gigglebot.jpg)](https://gigglebot.io/)
 
@@ -154,7 +154,7 @@ If we missed any resources, please let us know on [GitHub](https://github.com/ad
 
 [![MakeCode](/assets/02112020/makecodediscord.png)](https://discord.gg/XPa7R6)
 
-The Adafruit Discord community has a dedicated #makecode channel to discuss all things MakeCode, seek advice, etc - [Join us now](https://discord.gg/XPa7R6).
+The Adafruit Discord community has a dedicated #makecode channel to discuss all things MakeCode, seek advice, etc. - [Join us now](https://discord.gg/XPa7R6).
 
 ## What is Microsoft MakeCode?
 
