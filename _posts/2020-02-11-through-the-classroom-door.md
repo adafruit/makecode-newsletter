@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MakeCode: Through the Classroom Door with LEGO Line Follower!"
+title: "Through the Classroom Door with LEGO Line Follower!"
 date: 2020-02-11 07:00:00 -0800
 categories: weekly
 ---
