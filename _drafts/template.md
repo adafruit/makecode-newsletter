@@ -4,24 +4,33 @@ title: "Featured story title here!"
 date: 2019-00-00 07:00:00 -0800
 categories: weekly
 ---
-Editors: change the date and title above
+Editors: change the date and title above. Template Updated 2/12/2020 by Anne
 
-Missed a previous issue? No worries, you can check out the archive [right here](http://makecode.adafruitdaily.com/)!
+## The MakeCode Newsletter
 
 [![MakeCode](/assets/08142019/hero.png)](https://www.makecode.com)
 
-## The MakeCode Newsletter
-This is a newsletter devoted to Microsoft MakeCode, the easy but powerful block and Javascript code creator. Each issue highlights news, information, happenings, and more from around the globe. If you'd like to receive this newsletter via email early each month, sign up [here](https://www.adafruitdaily.com/).
+This is a newsletter devoted to Microsoft MakeCode, the easy but powerful block and Javascript code creator. We include MakeCode news, highlights, information, happenings, hardware, and more from around the globe. (Incidentally, if you catch wind of anybody using MakeCode beyond this, our Earth, please let us know about it!)
+
+If you'd like to receive this newsletter via email early each month, [sign up here](https://www.adafruitdaily.com/).
+
+Missed a previous issue? No worries, you can check out the archive [right here](http://makecode.adafruitdaily.com/)!
 
 ## Feature Story!
 
+[![MakeCode Feature](/assets/0mdd2020/feature.jpg)](https://www.makecode.com)
+
 placeholder text.
 
-## Educator Spotlight
+## Education Spotlight
+
+[![Education Spotlight](/assets/0mdd2020/education.jpg)](https://www.makecode.com)
 
 placeholder text.
 
 ## MakeCode Minute
+
+[![MakeCode Minute](/assets/0mdd2020/minute.jpg)](https://www.makecode.com)
 
 placeholder text.
 
@@ -29,13 +38,15 @@ Check out all the MakeCode minute [videos on YouTube](https://www.youtube.com/pl
 
 ## MakeCode Arcade Game of the Week!
 
+[![Game of the Week](/assets/0mdd2020/gotw.jpg)](https://www.makecode.com)
+
 placeholder text.
 
 Check out all the MakeCode Arcade game of the week [videos on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUpC_QY_Y5CmPKm-a5Cg4Qo).
 
 ## News from around the web!
 
-[![](/assets/DATE-GOES-HERE-2019/)]()
+[![News](/assets/0mdd2020/news.jpg)](https://www.makecode.com)
 
 [title](url)
 
@@ -53,15 +64,23 @@ And check out all [MakeCode guides on learn.adafruit.com](https://learn.adafruit
 
 ## New Extensions!
 
+[![New Extensions](/assets/0mdd2020/extension.jpg)](https://www.makecode.com)
+
 placeholder text.
 
 ## New Hardware!
 
+[![New Hardware](/assets/0mdd2020/hardware.jpg)](https://www.makecode.com)
+
 ## Upcoming Events!
+
+[![Events](/assets/0mdd2020/event.jpg)](https://www.makecode.com)
 
 placeholder text.
 
 ## Latest Releases
+
+[![KLatest Release](/assets/0mdd2020/release.jpg)](https://www.makecode.com)
 
 placeholder text.
 
@@ -84,12 +103,17 @@ If we missed any resources, please let us know on [GitHub](https://github.com/ad
 * [MakeCode posts on Adafruit](https://blog.adafruit.com/category/makecode/)
 * [MakeCode guides on learn.adafruit.com](https://learn.adafruit.com/search?q=makecode)
 
-## NUMBER thanks!
+## Join the MakeCode Discussions on Discord
 
-The Adafruit Discord community, where we do all our MakeCode development in the open, reached over NUMBER humans, thank you! Join today! [https://adafru.it/discord](https://adafru.it/discord)
+[![MakeCode](/assets/02112020/makecodediscord.png)](https://discord.gg/XPa7R6)
+
+The Adafruit Discord community has a dedicated #makecode channel to discuss all things MakeCode, seek advice, etc. - [Join us now](https://discord.gg/XPa7R6).
 
 ## What is Microsoft MakeCode?
-Microsoft MakeCode is a free, open source platform for creating engaging computer science learning experiences that support a progression path into real-world programming.
+
+[![MakeCode Overview Video](/assets/02112020/02112020makecode.jpg)](https://www.youtube.com/watch?v=ZegjmbyBUs8)
+
+Microsoft MakeCode is a free, open source platform for creating engaging computer science learning experiences that support a progression path into real-world programming - [YouTube](https://www.youtube.com/watch?v=ZegjmbyBUs8).
 
 **Simulator**
 
@@ -114,6 +138,10 @@ When they are ready, students can move into a full-featured JavaScript editor wi
 [![MakeCode Arcade](/assets/08142019/arcade.png)](https://arcade.makecode.com/)
 
 Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create retro arcade games for the web and for microcontrollers. In this guide, you will learn how to assemble your own Arcade hardware from different parts. MakeCode Arcade is open source, and on [GitHub](https://github.com/microsoft/pxt-arcade).
+
+[![MakeCode Arcade Overview Video](/assets/02112020/02112020makecode-arcade.jpg)](https://www.youtube.com/watch?v=UCq1VUIqpHI)
+
+Microsoft has produced an excellent overview video of MakeCode Arcade - [YouTube](https://www.youtube.com/watch?v=UCq1VUIqpHI).
 
 ## Contribute!
 
