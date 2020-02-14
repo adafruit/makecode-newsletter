@@ -2,7 +2,7 @@
 layout: post
 title: "Featured story title here!"
 date: 2019-00-00 07:00:00 -0800
-categories: weekly
+categories: monthly
 ---
 Editors: change the date and title above. Template Updated 2/12/2020 by Anne
 
