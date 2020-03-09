@@ -4,7 +4,6 @@ title: "MakeCode Powered Flowerpot!"
 date: 2020-03-10 07:00:00 -0800
 categories: monthly
 ---
-Editors: change the date and title above. Template Updated 2020-02-24 by Anne
 
 ## The MakeCode Newsletter
 
