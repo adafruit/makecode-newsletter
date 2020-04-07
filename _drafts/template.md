@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2019-00-00 07:00:00 -0800
+date: 2020-00-00 07:00:00 -0800
 categories: monthly
 ---
-Editors: change the date and title above. Template Updated 2/12/2020 by Anne
+Editors: change the date and title above. Template Updated 4/7/20 by Anne
 
 ## The MakeCode Newsletter
 
