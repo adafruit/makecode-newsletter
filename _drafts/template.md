@@ -54,7 +54,7 @@ Check out all the MakeCode Arcade game of the week [videos on YouTube](https://w
 
 [title](url)
 
-#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)?
+#ICYDNCI What was the most popular, most clicked link, in [last month's newsletter](https://link)?
 
 ## Coming Soon
 
