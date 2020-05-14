@@ -123,7 +123,7 @@ MakeCode: Types, Games and Machine Code - [infoq](https://www.infoq.com/presenta
 
 Make2Learn has a number of guided lessons with videos - [Make2Learn](https://make2learn.tinkergen.com/).
 
-#ICYDNCI What was the most popular, most clicked link, in [last week's newsletter](https://link)?
+#ICYDNCI What was the most popular, most clicked link, in [last month's newsletter](http://makecode.adafruitdaily.com/monthly/2020/04/07/makecode-resources-for-students-and-educators.html)? [Microsoft Online Learning](https://makecode.com/online-learning)
 
 ## Microsoft is hiring for the MakeCode Team
 
@@ -151,7 +151,7 @@ And check out all [MakeCode guides on learn.adafruit.com](https://learn.adafruit
 
 A DS3231 real-time clock extension for MakeCode for micro:bit - [GitHub](https://github.com/gbraad/pxt-rtc-ds3231).
 
-## Resouces for Educators and more!
+## Resources for Educators and more!
 
 If we missed any resources, please let us know on [GitHub](https://github.com/adafruit/makecode-newsletter/issues), we’ll be updating this list each newsletter.
 
