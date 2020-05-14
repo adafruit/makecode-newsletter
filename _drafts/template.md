@@ -4,7 +4,11 @@ title: "Featured story title here!"
 date: 2020-00-00 07:00:00 -0800
 categories: monthly
 ---
-Editors: change the date and title above. Template Updated 4/7/20 by Anne
+Editors: 
+[ ] change the date and title above
+[ ] Top Link Last Month
+
+Template Updated 5/14/20 by Anne
 
 ## The MakeCode Newsletter
 
@@ -84,7 +88,7 @@ placeholder text.
 
 placeholder text.
 
-## Resouces for Educators and more!
+## Resources for Educators and more!
 
 If we missed any resources, please let us know on [GitHub](https://github.com/adafruit/makecode-newsletter/issues), we’ll be updating this list each newsletter.
 
