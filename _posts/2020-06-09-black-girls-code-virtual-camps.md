@@ -25,7 +25,7 @@ They state: "We made the difficult decision to cancel the popular Black Girls CO
 
 More information - [Black Girls Code](https://mailchi.mp/blackgirlscode.com/black-girls-code-summer-camps-go-virtual).
 
-Cori Murray provides a testimonial: "Thank you Black Girls Code for my little one's class this morning. She's very proud of the game she made. Check out what I made with MakeCode! https://makecode.com/_hM5FR56xT1hh - [Twitter](https://twitter.com/corimurray/status/1266786738829131779?s=20).
+Cori Murray provides a testimonial: "Thank you Black Girls Code for my little one's class this morning. She's very proud of the game she made. Check out what [I made with MakeCode!](https://makecode.com/_hM5FR56xT1hh) - [Twitter](https://twitter.com/corimurray/status/1266786738829131779?s=20).
 
 ## Education Spotlight
 
