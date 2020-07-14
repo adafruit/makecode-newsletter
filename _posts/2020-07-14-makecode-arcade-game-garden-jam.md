@@ -161,9 +161,7 @@ The XK05 Internet of Things (IoT) kit from Xinabox consists of two parts: a micr
 
 [![Microsoft Streamer BETA](/assets/14072020/20200714streamer.jpg)](https://forum.makecode.com/t/introducing-makecode-streamer-beta/2437)
 
-Microsoftr is looking for feedback on MakeCode Streamer! A BETA web site to create live or recorded coding videos - [Product Page](https://forum.makecode.com/t/introducing-makecode-streamer-beta/2437) and [Twitter](https://twitter.com/pelikhan/status/1272680525048627202?s=21)
-
-
+Microsoft is looking for feedback on MakeCode Streamer! A BETA web site to create live or recorded coding videos - [Product Page](https://forum.makecode.com/t/introducing-makecode-streamer-beta/2437) and [Twitter](https://twitter.com/pelikhan/status/1272680525048627202?s=21)
 
 ## Resources for Educators and more!
 
