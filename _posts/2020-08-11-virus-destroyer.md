@@ -25,7 +25,7 @@ Missed a previous issue? No worries, you can check out the archive [right here](
 
 [![MEC Bootcamp](/assets/20200811/20200811edu.jpg)](https://twitter.com/MakerEduCollect/status/1285984330465058818?s=20)
 
-[Maker Educator](https://twitter.com/MakerEduCollect) had [Katie Henry](https://twitter.com/KatieHenryDays) join their MEC boot camp session to do a quick mocro:bit intro and talk about the Classroom feature on MakeCode. *(Ed: Look at that HUGE micro:bit!!)* - [Twitter](https://twitter.com/MakerEduCollect/status/1285984330465058818)
+[Maker Educator](https://twitter.com/MakerEduCollect) had [Katie Henry](https://twitter.com/KatieHenryDays) join their MEC boot camp session to do a quick mocro:bit intro and talk about the Classroom feature on MakeCode. *(Ed: Look at that HUGE micro:bit!!)* - [Twitter](https://twitter.com/MakerEduCollect/status/1285984330465058818).
 
 [![Microsoft Research Study](/assets/20200811/20200811research.jpg)](https://twitter.com/Stefania_druga/status/1288533733201436674)
 
@@ -52,7 +52,7 @@ Check out all the MakeCode minute [videos on YouTube](https://www.youtube.com/pl
 
 [![Game of the Week](/assets/20200811/20200811gotw.jpg)](https://blog.adafruit.com/2020/07/08/makecode-arcade-game-of-the-week-goat-mountain-adafruit-johnedgarpark-adafruit-msmakecode-makecode/)
 
-[Goat Mountain](https://forum.makecode.com/t/arcade-advanced-stream-60-mount-em-goooooooooaaaaaaaaaaats/2621) by MakeCode team is the best goat balancing game ever made!
+[Goat Mountain](https://forum.makecode.com/t/arcade-advanced-stream-60-mount-em-goooooooooaaaaaaaaaaats/2621) by MakeCode team is perhaps the best goat balancing game ever made!
 
 Check out all the MakeCode Arcade game of the week [videos on YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUpC_QY_Y5CmPKm-a5Cg4Qo).
 
