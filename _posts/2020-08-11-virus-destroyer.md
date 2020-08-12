@@ -138,9 +138,9 @@ If we missed any resources, please let us know on [GitHub](https://github.com/ad
 
 ## Join the MakeCode Discussions on Discord
 
-[![MakeCode](/assets/02112020/makecodediscord.png)](https://discord.gg/XPa7R6)
+[![MakeCode](/assets/02112020/makecodediscord.png)](https://adafru.it/discord)
 
-The Adafruit Discord community has a dedicated #makecode channel to discuss all things MakeCode, seek advice, etc. - [Join us now](https://discord.gg/XPa7R6).
+The Adafruit Discord community has a dedicated #makecode channel to discuss all things MakeCode, seek advice, etc. - [Join us now](https://adafru.it/discord).
 
 ## What is Microsoft MakeCode?
 
