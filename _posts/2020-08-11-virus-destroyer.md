@@ -27,10 +27,6 @@ Missed a previous issue? No worries, you can check out the archive [right here](
 
 [Maker Educator](https://twitter.com/MakerEduCollect) had [Katie Henry](https://twitter.com/KatieHenryDays) join their MEC boot camp session to do a quick micro:bit intro and talk about the Classroom feature on MakeCode. *(Ed: Look at that HUGE micro:bit!!)* - [Twitter](https://twitter.com/MakerEduCollect/status/1285984330465058818).
 
-[![Microsoft Research Study](/assets/20200811/20200811research.jpg)](https://twitter.com/Stefania_druga/status/1288533733201436674)
-
-Are you a parent with children (9-14 years old) who are interested in video games? Together, the [Microsoft Research](https://twitter.com/MSFTResearch)
-and the [MakeCode Team](https://twitter.com/MSMakeCode), would like to invite families to a series of fun 30-minute play and coding sessions. If  interested please fill out [their survey](https://aka.ms/TileCodeStudy).
 
 ## Microsoft MakeCode Videos
 
