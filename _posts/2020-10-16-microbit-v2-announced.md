@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "micro:bit version 2 is out!"
+title: "micro:bit version 2 announced!"
 date: 2020-10-16 07:00:00 -0800
 categories: monthly
 ---
@@ -15,7 +15,7 @@ If you'd like to receive this newsletter via email early each month, [sign up he
 
 Missed a previous issue? No worries, you can check out the archive [right here](http://makecode.adafruitdaily.com/)!
 
-## micro:bit Version 2 Released!
+## micro:bit Version 2 Announced!
 
 [![micro:bit Version 2](/assets/20201016/20201016mbv2.jpg)](https://microbit.org/new-microbit/)
 
