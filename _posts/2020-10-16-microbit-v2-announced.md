@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "micro:bit version 2 announced!"
+title: "micro:bit version 2 Announced!"
 date: 2020-10-16 07:00:00 -0800
 categories: monthly
 ---
