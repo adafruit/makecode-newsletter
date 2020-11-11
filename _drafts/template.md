@@ -7,8 +7,9 @@ categories: monthly
 Editors: 
 [ ] change the date and title above
 [ ] Top Link Last Month
+[ ] Change mmdd to newsletter publish date
 
-Template Updated 5/14/20 by Anne
+Template Updated 11/11/2020 by Anne
 
 ## The MakeCode Newsletter
 
