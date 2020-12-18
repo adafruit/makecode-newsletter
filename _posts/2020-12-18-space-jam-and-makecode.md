@@ -9,7 +9,7 @@ categories: monthly
 
 [![MakeCode](/assets/20201218/20201218hero.png)](https://www.makecode.com)
 
-This is a newsletter devoted to Microsoft MakeCode, the easy but powerful block and Javascript code creator. We include MakeCode news, highlights, information, happenings, hardware, and more from around the globe. (Incidentally, if you catch wind of anybody using MakeCode beyond this, our Earth, please let us know about it!)
+This is a newsletter devoted to Microsoft MakeCode, the easy but powerful block and Javascript code creator. We include MakeCode news, highlights, information, happenings, hardware, and more from around the world!
 
 If you'd like to receive this newsletter via email early each month, [sign up here](https://www.adafruitdaily.com/).
 
