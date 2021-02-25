@@ -16,7 +16,7 @@ If you'd like to receive this newsletter via email early each month, [sign up he
 
 Missed a previous issue? No worries, you can check out the archive [right here](http://makecode.adafruitdaily.com/)!
 
-## MakeCode Arcade is one year old
+## MakeCode Arcade is One Year Old!
 
 [![MakeCode Arcade](/assets/20210226/20210226bday1.jpg)](https://makecode.com/blog/arcade/update-jan-2021)
 
