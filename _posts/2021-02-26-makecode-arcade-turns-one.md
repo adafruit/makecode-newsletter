@@ -4,7 +4,7 @@ title: "MakeCode Arcade Turns One!"
 date: 2021-02-26 07:00:00 -0800
 categories: monthly
 ---
-Editors: 
+
 
 ## The MakeCode Newsletter
 
