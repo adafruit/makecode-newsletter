@@ -70,7 +70,7 @@ MakeCode Arcade Live: Making a roller rink game! - [Periscope](https://www.pscp.
 
 [![Keypad Matrix on in MakeCode](/assets/20210326/keypad.jpg)](https://twitter.com/jumekubo/status/1370064943320469504)
 
-[John Umekubo](https://twitter.com/jumekubo) wired up a matrix keypad to a micro:bit BitBuddy(http://www.lectrify.it/products/bitbuddy) from Lectrifyit  - [Twitter](https://twitter.com/jumekubo/status/1370064943320469504).
+[John Umekubo](https://twitter.com/jumekubo) wired up a matrix keypad to a micro:bit [BitBuddy](http://www.lectrify.it/products/bitbuddy) from Lectrifyit  - [Twitter](https://twitter.com/jumekubo/status/1370064943320469504).
 
 
 [![Clap counter](/assets/20210326/clap.jpg)](https://twitter.com/CaiganSystems/status/1367872756625375235?s=20)
