@@ -16,7 +16,7 @@ If you'd like to receive this newsletter via email early each month, [sign up he
 
 Missed a previous issue? No worries, you can check out the archive [right here](http://makecode.adafruitdaily.com/)!
 
-## Feature Story!
+## LEGO + micro:bit Mechanical Coin Bank
 
 [![Coin Bank](/assets/20210326/coin.jpg)](https://twitter.com/PlusPlusInt/status/1369021304934907907?s=20)
 
