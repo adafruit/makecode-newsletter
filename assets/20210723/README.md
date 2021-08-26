@@ -1,1 +1,1 @@
-## MakeCode newsletter assets for June 2021
+## MakeCode newsletter assets for July 2021
