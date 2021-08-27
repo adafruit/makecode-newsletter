@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MakeCode Thank you!"
+title: "MakeCode Thank You!"
 date: 2021-08-27 07:00:00 -0800
 categories: monthly
 ---
